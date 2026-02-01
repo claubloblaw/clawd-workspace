@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+
+# Secrets & credentials
+*.secret
+*.key
+*.pem
+.env
+.env.*
+
+# Sensitive workspace files — NEVER commit
+TOOLS.md
+USER.md
+MEM
+IDENTITY.md
+
+# Memory files with personal/financial info
+memory/investment-plan.md
+memory/opportunities.md
+memory/x-digest.md
+memory/inbox/
+memory/*market*.md
+memory/*ai-market*.md
+memory/*qmd*.md
+memory/*wp-migration*.md
+memory/*wp-plugin*.md
+
+# Daily log (contains personal context)
+daily
+
+# Brain notes with personal content
+brain/notes/Marcel*.md
+brain/notes/investment*.md
+
+# Clawdbot internals
+.clawdbot/
+heartbeat-state.json
+
+# Temp
+*.tmp
+*.bak
