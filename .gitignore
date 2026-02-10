@@ -61,3 +61,11 @@ projects/godaddy-leads/
 # Todo files (may reference client work)
 memory/todos.md
 memory/jarvis-init.md
+
+# Business/client sensitive files
+memory/business-ideas.md
+memory/business-ideas-n8n-deep-dive.md
+memory/luxica-clients.md
+memory/slack-analysis/
+projects/luxica-outreach/
+projects/sitecore-slack-scraper/
