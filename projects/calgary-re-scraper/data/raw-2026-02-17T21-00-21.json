@@ -1,593 +1,6 @@
 {
   "walkout": [
     {
-      "Id": "29370806",
-      "MlsNumber": "A2286820",
-      "PublicRemarks": "Welcome to this fully renovated bungalow in the established community of Braeside. This extensively renovated bungalow offers over 2,500 sq ft of fully developed living space, where modern design, quality craftsmanship, and a thoughtfully designed layout come together across two finished levels. The main floor features three bedrooms making it the ideal space for growing families, or those seeking space to work, host, and unwind. Spanning 1,363 sq ft, the main level showcases a bright, open-concept design accented by hardwood flooring and expansive windows that bathe the home in natural light. The heart of the home is an inviting, contemporary kitchen and living space where clean lines and thoughtful design take centre stage. White cabinetry, stainless steel appliances, quartz countertops, and 9’x5’ island with storage on both sides with seating come together to offer understated elegance and everyday practicality. Whether it’s busy weekday mornings or relaxed evenings with friends, this space makes gathering feel effortless. The primary suite is a calm and inviting retreat, complete with a spa inspired ensuite featuring a double vanity and a deep soaker tub. Two additional bedrooms and a 3 pce bathroom complete the main level, offering both comfort and convenience. Downstairs, the fully finished 1,221 sq ft basement extends the home’s versatility with two more bedrooms, a den space, and a spacious recreation area—ideal for movie nights, a home gym, games area, or kids’ play space. Step outside into the south facing back yard and discover one of the home’s standout features: a large, private backyard oasis. The composite deck is perfect for summer entertaining and outdoor lounging and the space is ideal for the kids to play.  Each spring, the mature tree comes into bloom with delicate pink blossoms, creating a serene and picturesque backdrop to the outdoor space. The oversized detached double garage provides secure parking and extra storage, while incredible neighbo urs and a welcoming atmosphere complete the picture. Located close to schools, playgrounds, The Shops at Buffalo Run, and with quick access to Stoney Trail, this Braeside bungalow offers the perfect balance of modern comfort, thoughtful updates, and an easy, connected lifestyle. This is one you won’t want to miss. (31657626)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "3 + 1",
-        "SizeInterior": "1363.49 sqft",
-        "StoriesTotal": "1",
-        "Type": "House",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1363 sqft",
-            "AreaUnformatted": "1363 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "0"
-      },
-      "Individual": [
-        {
-          "IndividualID": 1523083,
-          "Name": "Melissa Kost",
-          "Organization": {
-            "OrganizationID": 64700,
-            "Name": "CIR Realty",
-            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638960649600000000/lowres/1129353.jpg",
-            "Address": {
-              "AddressText": "168, 8060 SILVER SPRINGS BV. NW|CALGARY, Alberta T3B5K1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "247-7770",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "247-7727",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/64700/cir-realty-168-8060-silver-springs-bv-nw-calgary-alberta-t3b5k1",
-            "PhotoLastupdate": "2025-10-14 6:56:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "710-3320",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "247-7727",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.melissakost.com/",
-              "WebsiteTypeId": "1"
-            },
-            {
-              "Website": "https://www.facebook.com/melissakostrealestate/",
-              "WebsiteTypeId": "2"
-            },
-            {
-              "Website": "https://instagram.com/melissakostrealestate",
-              "WebsiteTypeId": "5"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576491190"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638404783200000000/lowres/1138391.jpg",
-          "Position": "Associate Broker",
-          "PermitFreetextEmail": true,
-          "FirstName": "Melissa",
-          "LastName": "Kost",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1523083/melissa-kost-168-8060-silver-springs-bv-nw-calgary-alberta-t3b5k1",
-          "AgentPhotoLastUpdated": "2024-01-10 10:12:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638404783200000000/highres/1138391.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        },
-        {
-          "IndividualID": 2176447,
-          "Name": "Stephanie Benoit",
-          "Organization": {
-            "OrganizationID": 64700,
-            "Name": "CIR Realty",
-            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638960649600000000/lowres/1129353.jpg",
-            "Address": {
-              "AddressText": "168, 8060 SILVER SPRINGS BV. NW|CALGARY, Alberta T3B5K1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "247-7770",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "247-7727",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/64700/cir-realty-168-8060-silver-springs-bv-nw-calgary-alberta-t3b5k1",
-            "PhotoLastupdate": "2025-10-14 6:56:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "837-4663",
-              "AreaCode": "587",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "247-7727",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "https://stephaniebenoit.cirrealty.ca/",
-              "WebsiteTypeId": "1"
-            },
-            {
-              "Website": "https://www.facebook.com/profile.php?id=100087331486934",
-              "WebsiteTypeId": "2"
-            },
-            {
-              "Website": "https://www.linkedin.com/in/stephanie-benoit-1b1954264/",
-              "WebsiteTypeId": "3"
-            },
-            {
-              "Website": "https://www.instagram.com/stephaniebenoitrealty/",
-              "WebsiteTypeId": "5"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576529618"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638053188600000000/lowres/1426668.jpg",
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Stephanie",
-          "LastName": "Benoit",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2176447/stephanie-benoit-168-8060-silver-springs-bv-nw-calgary-alberta-t3b5k1",
-          "AgentPhotoLastUpdated": "2022-11-29 11:41:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638053188600000000/highres/1426668.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$825,000",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "407 Brookmere Crescent SW|Calgary, Alberta T2W2R2",
-          "Longitude": "-114.10834019",
-          "Latitude": "50.955497397",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069588183930000/reb9/highres/0/A2286820_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069588183930000/reb9/medres/0/A2286820_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069588183930000/reb9/lowres/0/A2286820_1.jpg",
-            "LastUpdated": "2026-02-17 9:00:18 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Detached Garage",
-            "Spaces": "2"
-          }
-        ],
-        "ParkingSpaceTotal": "4",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Detached Garage (2)",
-        "PriceUnformattedValue": "825000",
-        "ShortValue": "825K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "666 m2|4,051 - 7,250 sqft",
-        "SizeFrontage": "17.08 m",
-        "LandscapeFeatures": "Landscaped"
-      },
-      "AlternateURL": {
-        "VideoLink": "https://unbranded.youriguide.com/kwp2c_407_brookmere_crescent_sw_calgary_ab/"
-      },
-      "PostalCode": "T2W2R2",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29370806/407-brookmere-crescent-sw-calgary-braeside",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-18 2:00:18 AM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29370806/407-brookmere-crescent-sw-calgary-braeside",
-      "RelativeURLFr": "/immobilier/29370806/407-brookmere-crescent-sw-calgary",
-      "Media": [
-        {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://unbranded.youriguide.com/kwp2c_407_brookmere_crescent_sw_calgary_ab/",
-          "Description": "VideoTourWebsite",
-          "Order": 2,
-          "VideoType": "iGuide"
-        },
-        {
-          "MediaCategoryId": "8",
-          "MediaCategoryURL": "https://unbranded.youriguide.com/kwp2c_407_brookmere_crescent_sw_calgary_ab//doc/floorplan_metric_en_u.pdf",
-          "Description": "FloorPlan"
-        },
-        {
-          "MediaCategoryId": "8",
-          "MediaCategoryURL": "https://unbranded.youriguide.com/kwp2c_407_brookmere_crescent_sw_calgary_ab//doc/floorplan_imperial_en_u.pdf",
-          "Description": "FloorPlan"
-        }
-      ],
-      "InsertedDateUTC": "639069768183870000",
-      "TimeOnRealtor": "59 min ago",
-      "Tags": [
-        {
-          "Label": "59 min ago",
-          "HTMLColorCode": "#23A1C0",
-          "ListingTagTypeID": "1"
-        }
-      ],
-      "UploadedBy": 9
-    },
-    {
-      "Id": "29370747",
-      "MlsNumber": "A2286863",
-      "PublicRemarks": "Welcome to 128 Cantrell Place in Canyon Meadows!This beautifully renovated bungalow offers the perfect blend of style, comfort, and functionality in one of Calgary’s most established and sought-after communities. With 5 bedrooms, 3 bathrooms, a fully finished basement, and a private side entrance,Main Floor LivingThe main level features a spacious, light-filled layout with 3 bedrooms and 2 full bathrooms, including a private ensuite in the primary bedroom. The modernized kitchen flows seamlessly into the dining and living areas, creating an inviting space for everyday living and entertaining.Fully Finished BasementThe lower level has been built from the ground up and includes 2 additional bedrooms, a full bathroom, and a large games/rec room. With its own side entrance, the basement offers excellent flexibility for extended family, and guests. Extensive UpgradesThis home has undergone a full transformation with high-quality renovations throughout, including:- New drywall on the main floor ceiling- Fully updated bathrooms- Newly developed basement from scratch- New windows, modern deck.Outdoor & Community - The backyard provides the perfect space for relaxation or entertaining, while the front curb appeal reflects the care and upgrades put into this property.Don’t miss your opportunity to own this move-in-ready bungalow in one of Calgary’s most desirable neighborhoods! (31657610)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "3 + 2",
-        "SizeInterior": "1399 sqft",
-        "StoriesTotal": "1",
-        "Type": "House",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1399 sqft",
-            "AreaUnformatted": "1399 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "0"
-      },
-      "Individual": [
-        {
-          "IndividualID": 2070874,
-          "Name": "Navpreet Singh Sandhu",
-          "Organization": {
-            "OrganizationID": 296245,
-            "Name": "Executive Real Estate Services",
-            "Address": {
-              "AddressText": "1935 32 AVENUE NE #207|Calgary, Alberta T2E7C8",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "926-9999",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              }
-            ],
-            "Emails": [
-              {
-                "ContactId": "543508724"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "HasEmail": true,
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/296245/executive-real-estate-services-1935-32-avenue-ne-207-calgary-alberta-t2e7c8",
-            "PhotoLastupdate": "2024-01-25 6:54:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "975-1469",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576513487"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS636918089400000000/lowres/1346012.jpg",
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Navpreet Singh",
-          "LastName": "Sandhu",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2070874/navpreet-singh-sandhu-1935-32-avenue-ne-207-calgary-alberta-t2e7c8",
-          "AgentPhotoLastUpdated": "2019-04-25 17:09:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636918089400000000/highres/1346012.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$635,000",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "128 Cantrell Place SW|Calgary, Alberta T2W1X2",
-          "Longitude": "-114.073649537",
-          "Latitude": "50.941546282",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069612727400000/reb9/highres/3/A2286863_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069612727400000/reb9/medres/3/A2286863_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069612727400000/reb9/lowres/3/A2286863_1.jpg",
-            "LastUpdated": "2026-02-17 9:41:12 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Parking Pad"
-          }
-        ],
-        "ParkingSpaceTotal": "2",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Playground",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Parking Pad",
-        "PriceUnformattedValue": "635000",
-        "ShortValue": "635K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "557 m2|4,051 - 7,250 sqft",
-        "SizeFrontage": "16.76 m"
-      },
-      "PostalCode": "T2W1X2",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29370747/128-cantrell-place-sw-calgary-canyon-meadows",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-18 2:41:18 AM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29370747/128-cantrell-place-sw-calgary-canyon-meadows",
-      "RelativeURLFr": "/immobilier/29370747/128-cantrell-place-sw-calgary",
-      "Media": [],
-      "InsertedDateUTC": "639069766267500000",
-      "TimeOnRealtor": "1 hour ago",
-      "Tags": [
-        {
-          "Label": "1 hour ago",
-          "HTMLColorCode": "#23A1C0",
-          "ListingTagTypeID": "1"
-        }
-      ],
-      "UploadedBy": 9
-    },
-    {
-      "Id": "29370038",
-      "MlsNumber": "A2286964",
-      "PublicRemarks": "Step into modern comfort and style with the beautifully designed Damon! Built by a trusted builder, this home showcases on-trend, designer-curated interior selections tailored for a home that feels personalized to you. This energy-efficient home is Built Green certified and includes triple-pane windows, a high-efficiency furnace, and a solar chase for a solar-ready setup. With blower door testing that may be eligible for up to 25% mortgage insurance savings, plus an electric car charger rough-in, it’s designed for sustainable, future-forward living.Featuring smart home technology, this home includes a programmable thermostat, ring camera doorbell, smart front door lock, smart and motion-activated switches—all seamlessly controlled via an Amazon Alexa touchscreen hub.  This home features an executive kitchen with built-in stainless steel appliances, gas cooktop, chimney hood fan, waterfall island and a walk-in pantry. The main floor offers a spacious flex room, and the basement has 9' ceilings with a private side entrance. Upstairs, enjoy a vaulted bonus room, upper floor laundry, and a luxurious 5-piece ensuite with soaker tub, dual sinks, quartz counters, and a walk-in shower with tiled walls. Thoughful touches include extra windows and paint-grade railings with iron spindles. Backing onto a peaceful pond, the rear deck with gas line rough-in is perfect for relaxing or entertaining outdoors. Photos are representative. (31657002)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "4",
-        "SizeInterior": "2398.08 sqft",
-        "StoriesTotal": "2",
-        "Type": "House",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "2398 sqft",
-            "AreaUnformatted": "2398 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "1"
-      },
-      "Individual": [
-        {
-          "IndividualID": 2247266,
-          "Name": "David Lofthaug",
-          "Organization": {
-            "OrganizationID": 285347,
-            "Name": "Bode Platform Inc.",
-            "Address": {
-              "AddressText": "1709 - 21 Avenue SW|Calgary, Alberta T2T0N2",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "602-3307",
-                "AreaCode": "587",
-                "PhoneTypeId": "1"
-              }
-            ],
-            "Emails": [
-              {
-                "ContactId": "577451090"
-              }
-            ],
-            "Websites": [
-              {
-                "Website": "http://bode.ca/",
-                "WebsiteTypeId": "1"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "HasEmail": true,
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/285347/bode-platform-inc-1709-21-avenue-sw-calgary-alberta-t2t0n2",
-            "PhotoLastupdate": "2025-12-17 12:07:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "602-3307",
-              "AreaCode": "587",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://bode.ca/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "577616408"
-            }
-          ],
-          "Position": "Broker",
-          "PermitFreetextEmail": true,
-          "FirstName": "David",
-          "LastName": "Lofthaug",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2247266/david-lofthaug-1709-21-avenue-sw-calgary-alberta-t2t0n2",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$760,750",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "405 Sora Way SE|Calgary, Alberta T3S0M3",
-          "Longitude": "-113.8866566",
-          "Latitude": "50.9089085",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069487604400000/reb25/highres/4/A2286964_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069487604400000/reb25/medres/4/A2286964_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069487604400000/reb25/lowres/4/A2286964_1.jpg",
-            "LastUpdated": "2026-02-17 6:12:40 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Attached Garage",
-            "Spaces": "2"
-          }
-        ],
-        "ParkingSpaceTotal": "4",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Attached Garage (2)",
-        "PriceUnformattedValue": "760750",
-        "ShortValue": "761K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "359 m2|0-4,050 sqft",
-        "SizeFrontage": "10.36 m"
-      },
-      "AlternateURL": {
-        "DetailsLink": "https://bode.ca/listings/20314238"
-      },
-      "PostalCode": "T3S0M3",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29370038/405-sora-way-se-calgary-hotchkiss",
-      "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 11:12:43 PM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29370038/405-sora-way-se-calgary-hotchkiss",
-      "RelativeURLFr": "/immobilier/29370038/405-sora-way-se-calgary",
-      "Media": [
-        {
-          "MediaCategoryId": "1",
-          "MediaCategoryURL": "https://bode.ca/listings/20314238",
-          "Description": "AlternateFeatureSheetWebsite",
-          "Order": 7
-        }
-      ],
-      "InsertedDateUTC": "639069665356930000",
-      "TimeOnRealtor": "3 hours ago",
-      "Tags": [
-        {
-          "Label": "3 hours ago",
-          "HTMLColorCode": "#23A1C0",
-          "ListingTagTypeID": "1"
-        }
-      ],
-      "UploadedBy": 25
-    },
-    {
       "Id": "29367960",
       "MlsNumber": "A2284056",
       "PublicRemarks": "Built in the best CUL-DE-SAC in Mahogany and one of the initial phases in the community, this JAYMAN home gives you EASY IN-AND-OUT ACCESS. It's only a hop, skip and jump to the WEST BEACH - Local Mahogany residents tend to say \"The West Beach is the Best Beach\" and you're going to be Oh' so close. Mahogany's AWESOMENESS FACTOR is backed by being awarded a SIX-TIME COMMUNITY OF THE YEAR and still one of Calgary’s most celebrated communities to date. Buying a home is cool, but buying a home in desirable location, well, that's even better.What does this home offer me, you ask? How about a smart open concept layout featuring HIGH CEILINGS, natural lighting, elevated construction materials (NO VINYL SIDING to see here friends), and PLENTY OF SPACE for real life — the best recipe for dinner with friends, the epic block party or weekend lounging.The LARGE KITCHEN and eat-in island are made for hosting, cooking, and gathering. Upstairs, the primary bedroom is spacious and practical with aHUGE WALK-IN CLOSET, and large SOAKER TUB. There are two additional bedrooms and a PRIVATE BALCONY on the upper level — the perfect bonusspot for fresh air and a place to spy on the neighbours. When it's so cold outside and it makes your face hurt, no biggie because you will now have a HEATED GARAGE. This is exactly the kind of feature you’ll thank yourself for every winter morning, and it will make all your friends jealous. #WINNING. Downstairs, the FINISHED BASEMENT adds another bedroom and full bathroom, making it a great setup for guests, that delightful teenager you may have, or extended family. Have a peek at the replaced hot water tank in 2024 and already installed WATER SOFTENER. Now for the bonus room - that’s your wildcard space — movie nights, a playroom, a home gym, or the ultimate hobby zone.  YOU GET TO CHOOSE. Doesn't CHOICE sound nice?Now let’s talk lifestyle; living in Mahogany means you’re steps from a wondrous LAKE-VIEW WALKING promenade and endless PATHWAYS aro und the WETLANDS making them the perfect spot to capture your annual family portrait.  Most importantly, you will have YEAR-ROUND LAKE ACCESS. That'll turn some heads. The BEACH CLUB offers everything from tennis courts, paddle boarding, skating, splash parks, playgrounds and organized programs ad events. Basically… there’s always something to do, or not - I get it. Living here will situate you close to schools, boutique shops, restaurants, Seton YMCA and the South Health Campus. The quick access to Stoney Trail and Deerfoot will shorten your drive time, which means more time in sweatpants with snacks. So, what do you say?So whatcha say?  Ready to MOVE IN, SETTLE DOWN, and start enjoying everything MAHOGANY has to offer.                 LET'S DO THIS. (31652016)",
@@ -773,10 +186,10 @@
         }
       ],
       "InsertedDateUTC": "639069509447700000",
-      "TimeOnRealtor": "8 hours ago",
+      "TimeOnRealtor": "2 hours ago",
       "Tags": [
         {
-          "Label": "8 hours ago",
+          "Label": "2 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1064,10 +477,10 @@
         }
       ],
       "InsertedDateUTC": "639069473874730000",
-      "TimeOnRealtor": "9 hours ago",
+      "TimeOnRealtor": "3 hours ago",
       "Tags": [
         {
-          "Label": "9 hours ago",
+          "Label": "3 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1272,10 +685,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069470478330000/reb9/highres/9/A2285749_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069470478330000/reb9/medres/9/A2285749_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069470478330000/reb9/lowres/9/A2285749_1.jpg",
-            "LastUpdated": "2026-02-17 5:44:07 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639069289445100000/reb9/highres/9/A2285749_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639069289445100000/reb9/medres/9/A2285749_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639069289445100000/reb9/lowres/9/A2285749_1.jpg",
+            "LastUpdated": "2026-02-17 12:42:24 PM",
             "TypeId": "0"
           }
         ],
@@ -1308,7 +721,6 @@
         "LandscapeFeatures": "Garden Area, Landscaped, Lawn"
       },
       "AlternateURL": {
-        "DetailsLink": "https://homesweethometeam.ca/featured/236-auburn-glen-close-se-calgary-ab-t3m-2p4/",
         "VideoLink": "https://youriguide.com/236_auburn_glen_cl_se_calgary_ab/"
       },
       "PostalCode": "T3M2P4",
@@ -1316,18 +728,12 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29367184/236-auburn-glen-close-se-calgary-auburn-bay",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 10:44:10 PM",
+      "PhotoChangeDateUTC": "2026-02-17 5:42:27 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29367184/236-auburn-glen-close-se-calgary-auburn-bay",
       "RelativeURLFr": "/immobilier/29367184/236-auburn-glen-close-se-calgary",
       "Media": [
-        {
-          "MediaCategoryId": "1",
-          "MediaCategoryURL": "https://homesweethometeam.ca/featured/236-auburn-glen-close-se-calgary-ab-t3m-2p4/",
-          "Description": "AlternateFeatureSheetWebsite",
-          "Order": 7
-        },
         {
           "MediaCategoryId": "2",
           "MediaCategoryURL": "https://youriguide.com/236_auburn_glen_cl_se_calgary_ab/",
@@ -1347,10 +753,10 @@
         }
       ],
       "InsertedDateUTC": "639069460089930000",
-      "TimeOnRealtor": "9 hours ago",
+      "TimeOnRealtor": "3 hours ago",
       "Tags": [
         {
-          "Label": "9 hours ago",
+          "Label": "3 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1522,10 +928,10 @@
         }
       ],
       "InsertedDateUTC": "639069454436330000",
-      "TimeOnRealtor": "9 hours ago",
+      "TimeOnRealtor": "3 hours ago",
       "Tags": [
         {
-          "Label": "9 hours ago",
+          "Label": "3 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1720,10 +1126,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069427853200000/reb9/highres/4/A2286744_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069427853200000/reb9/medres/4/A2286744_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069427853200000/reb9/lowres/4/A2286744_1.jpg",
-            "LastUpdated": "2026-02-17 4:33:05 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639069271701330000/reb9/highres/4/A2286744_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639069271701330000/reb9/medres/4/A2286744_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639069271701330000/reb9/lowres/4/A2286744_1.jpg",
+            "LastUpdated": "2026-02-17 12:12:50 PM",
             "TypeId": "0"
           }
         ],
@@ -1759,7 +1165,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29365645/139-south-shore-road-chestermere-south-shores",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 9:33:06 PM",
+      "PhotoChangeDateUTC": "2026-02-17 5:12:50 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29365645/139-south-shore-road-chestermere-south-shores",
@@ -1773,13 +1179,6 @@
           "VideoType": "iGuide"
         },
         {
-          "MediaCategoryId": "2",
-          "MediaCategoryURL": "https://youtube.com/shorts/-88e3CrwaNk?feature=share",
-          "Description": "VideoTourWebsite",
-          "Order": 2,
-          "VideoType": "Youtube"
-        },
-        {
           "MediaCategoryId": "8",
           "MediaCategoryURL": "https://youriguide.com/139_s_shr_rd_chestermere_ab//doc/floorplan_metric_en_u.pdf",
           "Description": "FloorPlan"
@@ -1791,10 +1190,10 @@
         }
       ],
       "InsertedDateUTC": "639069022757330000",
-      "TimeOnRealtor": "21 hours ago",
+      "TimeOnRealtor": "15 hours ago",
       "Tags": [
         {
-          "Label": "21 hours ago",
+          "Label": "15 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -1804,7 +1203,7 @@
     {
       "Id": "29365376",
       "MlsNumber": "A2286651",
-      "PublicRemarks": "Former show home, meticulously maintained and ideally positioned on a quiet, low-traffic street in one of Garrison Green’s most desirable pockets. Just minutes to the Glenmore Reservoir, Sandy Beach pathways, Peacekeeper Park, excellent schools and only 7 km to downtown, this location offers an exceptional blend of nature and inner-city convenience.Designed for light and connection, the main level showcases floor-to-ceiling windows, elegant French doors and an open-concept layout that seamlessly unites indoor and outdoor living. The kitchen is both functional and refined with artistic backsplash detail, abundant storage and insulated luxury vinyl plank flooring, while the updated powder room and welcoming front entry elevate everyday living. Built-in Bluetooth Bose speakers enhance the ambiance on both the main and upper levels.Upstairs features three bedrooms including a spacious primary retreat with a private ensuite, dual walk-in closets (his & hers), and a full bathroom for family or guests.The permitted fully developed basement adds significant additional living space with a Illegal 4th bedroom, 3-piece bath, soundproofed ceiling, recessed dimmable lighting, Wi-Fi thermostatically controlled heating, functional laundry room, rough-ins for a future kitchen and fireplace, gas water heater, updated 100A panel, and insulated luxury vinyl plank flooring for enhanced comfort. Featuring 2,631 sq ft of Beautifully finished living space.Thoughtfully upgraded with a new roof (2023), front and backyard sprinkler system, hot tub spa pack, and an oversized single garage with extensive shelving. Surrounded by mature trees, the private deck creates a peaceful and private outdoor retreat with a gas BBQ hook-up.An exceptional opportunity to own a move-in ready home in one of Calgary’s most sought-after inner-city communities. (31652027)",
+      "PublicRemarks": "Former show home, meticulously maintained and ideally positioned on a quiet, low-traffic street in one of Garrison Green’s most desirable pockets. Just minutes to the Glenmore Reservoir, Sandy Beach pathways, Peacekeeper Park, excellent schools and only 7 km to downtown, this location offers an exceptional blend of nature and inner-city convenience.Designed for light and connection, the main level showcases floor-to-ceiling windows, elegant French doors and an open-concept layout that seamlessly unites indoor and outdoor living. The kitchen is both functional and refined with artistic backsplash detail, abundant storage and insulated luxury vinyl plank flooring, while the updated powder room and welcoming front entry elevate everyday living. Built-in Bluetooth Bose speakers enhance the ambiance on both the main and upper levels.Upstairs features three bedrooms including a spacious primary retreat with a private ensuite, dual walk-in closets (his & hers), and a full bathroom for family or guests.The permitted fully developed basement adds significant additional living space with a Illegal 4th bedroom, 3-piece bath, soundproofed ceiling, recessed dimmable lighting, Wi-Fi thermostatically controlled heating, functional laundry room, rough-ins for a future kitchen and fireplace, gas water heater, updated 100A panel, and insulated luxury vinyl plank flooring for enhanced comfort.Thoughtfully upgraded with a new roof (2023), front and backyard sprinkler system, hot tub spa pack, and an oversized single garage with extensive shelving. Surrounded by mature trees, the private deck creates a peaceful and private outdoor retreat with a gas BBQ hook-up.An exceptional opportunity to own a move-in ready home in one of Calgary’s most sought-after inner-city communities. (31652027)",
       "Building": {
         "BathroomTotal": "4",
         "Bedrooms": "3 + 1",
@@ -1913,11 +1312,11 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069500992630000/reb9/highres/1/A2286651_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069500992630000/reb9/medres/1/A2286651_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069500992630000/reb9/lowres/1/A2286651_1.jpg",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068874295970000/reb9/highres/1/A2286651_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068874295970000/reb9/medres/1/A2286651_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068874295970000/reb9/lowres/1/A2286651_1.jpg",
             "Description": "Front of Home",
-            "LastUpdated": "2026-02-17 6:34:59 PM",
+            "LastUpdated": "2026-02-17 1:10:29 AM",
             "TypeId": "0"
           }
         ],
@@ -1957,7 +1356,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29365376/5506-henwood-street-sw-calgary-garrison-green",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 11:35:01 PM",
+      "PhotoChangeDateUTC": "2026-02-17 6:10:31 AM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29365376/5506-henwood-street-sw-calgary-garrison-green",
@@ -1979,10 +1378,10 @@
         }
       ],
       "InsertedDateUTC": "639068885878800000",
-      "TimeOnRealtor": "1 day ago",
+      "TimeOnRealtor": "19 hours ago",
       "Tags": [
         {
-          "Label": "1 day ago",
+          "Label": "19 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2232,10 +1631,10 @@
         }
       ],
       "InsertedDateUTC": "639068751957370000",
-      "TimeOnRealtor": "1 day ago",
+      "TimeOnRealtor": "23 hours ago",
       "Tags": [
         {
-          "Label": "1 day ago",
+          "Label": "23 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -2979,10 +2378,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069433311100000/reb9/highres/7/A2286577_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069433311100000/reb9/medres/7/A2286577_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069433311100000/reb9/lowres/7/A2286577_1.jpg",
-            "LastUpdated": "2026-02-17 4:42:11 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639068470110500000/reb9/highres/7/A2286577_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639068470110500000/reb9/medres/7/A2286577_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639068470110500000/reb9/lowres/7/A2286577_1.jpg",
+            "LastUpdated": "2026-02-16 1:56:51 PM",
             "TypeId": "0"
           }
         ],
@@ -3015,7 +2414,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29364575/15-masters-place-se-calgary-mahogany",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 9:42:11 PM",
+      "PhotoChangeDateUTC": "2026-02-16 6:56:51 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29364575/15-masters-place-se-calgary-mahogany",
@@ -4174,10 +3573,10 @@
       "RelativeURLFr": "/immobilier/29363655/7139-18-street-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639067984652830000",
-      "TimeOnRealtor": "2 days ago",
+      "TimeOnRealtor": "1 day ago",
       "Tags": [
         {
-          "Label": "2 days ago",
+          "Label": "1 day ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -4414,10 +3813,10 @@
       "RelativeURLFr": "/immobilier/29363470/539-waterford-rise-chestermere",
       "Media": [],
       "InsertedDateUTC": "639067870152100000",
-      "TimeOnRealtor": "2 days ago",
+      "TimeOnRealtor": "1 day ago",
       "Tags": [
         {
-          "Label": "2 days ago",
+          "Label": "1 day ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -4796,10 +4195,10 @@
       "RelativeURLFr": "/immobilier/29362712/9632-alcott-road-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639067059996000000",
-      "TimeOnRealtor": "3 days ago",
+      "TimeOnRealtor": "2 days ago",
       "Tags": [
         {
-          "Label": "3 days ago",
+          "Label": "2 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -5417,10 +4816,10 @@
       "RelativeURLFr": "/immobilier/29361386/10712-mapleshire-crescent-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639066292189930000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -5630,10 +5029,10 @@
         }
       ],
       "InsertedDateUTC": "639066221782130000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -5836,10 +5235,10 @@
         }
       ],
       "InsertedDateUTC": "639066214471100000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -6024,10 +5423,10 @@
         }
       ],
       "InsertedDateUTC": "639066197318570000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -6272,10 +5671,10 @@
       "ListingGMT": "-07:00:00",
       "Media": [],
       "InsertedDateUTC": "639066196600270000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -6534,10 +5933,10 @@
         }
       ],
       "InsertedDateUTC": "639066143153330000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -8379,10 +7778,10 @@
       "RelativeURLFr": "/immobilier/29357383/37-north-bridges-landing-langdon",
       "Media": [],
       "InsertedDateUTC": "639065482437730000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -8602,10 +8001,10 @@
         }
       ],
       "InsertedDateUTC": "639065428403970000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -8757,10 +8156,10 @@
       "RelativeURLFr": "/immobilier/29357145/116-deer-run-close-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639065423582670000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -8951,10 +8350,10 @@
         }
       ],
       "InsertedDateUTC": "639065385747000000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -9158,10 +8557,10 @@
       "RelativeURLFr": "/immobilier/29355973/15-oakmount-place-sw-calgary",
       "Media": [],
       "InsertedDateUTC": "639065278070100000",
-      "TimeOnRealtor": "5 days ago",
+      "TimeOnRealtor": "4 days ago",
       "Tags": [
         {
-          "Label": "5 days ago",
+          "Label": "4 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -11364,10 +10763,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069452143400000/reb9/highres/8/A2285868_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069452143400000/reb9/medres/8/A2285868_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069452143400000/reb9/lowres/8/A2285868_1.jpg",
-            "LastUpdated": "2026-02-17 5:13:34 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639065227284170000/reb9/highres/8/A2285868_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639065227284170000/reb9/medres/8/A2285868_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639065227284170000/reb9/lowres/8/A2285868_1.jpg",
+            "LastUpdated": "2026-02-12 7:52:08 PM",
             "TypeId": "0"
           }
         ],
@@ -11411,8 +10810,7 @@
       "RelativeDetailsURL": "/real-estate/29353389/2016-brightoncrest-green-se-calgary-new-brighton",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-13 12:59:45 AM",
-      "PhotoChangeDateUTC": "2026-02-17 10:13:36 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-13 12:52:09 AM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29353389/2016-brightoncrest-green-se-calgary-new-brighton",
       "RelativeURLFr": "/immobilier/29353389/2016-brightoncrest-green-se-calgary",
@@ -13007,10 +12405,10 @@
         }
       ],
       "InsertedDateUTC": "639064619979370000",
-      "TimeOnRealtor": "6 days ago",
+      "TimeOnRealtor": "5 days ago",
       "Tags": [
         {
-          "Label": "6 days ago",
+          "Label": "5 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -13248,10 +12646,10 @@
       "RelativeURLFr": "/immobilier/29352165/8-north-bridges-glen-langdon",
       "Media": [],
       "InsertedDateUTC": "639064522662700000",
-      "TimeOnRealtor": "6 days ago",
+      "TimeOnRealtor": "5 days ago",
       "Tags": [
         {
-          "Label": "6 days ago",
+          "Label": "5 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -13414,10 +12812,10 @@
         }
       ],
       "InsertedDateUTC": "639064408867800000",
-      "TimeOnRealtor": "6 days ago",
+      "TimeOnRealtor": "5 days ago",
       "Tags": [
         {
-          "Label": "6 days ago",
+          "Label": "5 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -15664,10 +15062,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069594818300000/reb9/highres/6/A2284696_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069594818300000/reb9/medres/6/A2284696_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069594818300000/reb9/lowres/6/A2284696_1.jpg",
-            "LastUpdated": "2026-02-17 9:11:21 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639069302173230000/reb9/highres/6/A2284696_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639069302173230000/reb9/medres/6/A2284696_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639069302173230000/reb9/lowres/6/A2284696_1.jpg",
+            "LastUpdated": "2026-02-17 1:03:37 PM",
             "TypeId": "0"
           }
         ],
@@ -15690,15 +15088,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [
-        {
-          "StartTime": "Feb 21/26 - 3:00 PM To 5:00 PM",
-          "StartDateTime": "21/02/2026 3:00:00 PM",
-          "EndDateTime": "21/02/2026 5:00:00 PM",
-          "FormattedDateTime": "Feb 21/26 - 3:00 PM To 5:00 PM",
-          "EventTypeID": "1"
-        }
-      ],
       "Business": {},
       "Land": {
         "SizeTotal": "429 m2|4,051 - 7,250 sqft",
@@ -15713,9 +15102,8 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29349240/154-new-brighton-lane-se-calgary-new-brighton",
       "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-02-18 2:34:52 AM",
-      "HasOpenHouseUpdate": true,
-      "PhotoChangeDateUTC": "2026-02-18 2:11:24 AM",
+      "OpenHouseInsertDateUTC": "2026-02-14 4:19:36 PM",
+      "PhotoChangeDateUTC": "2026-02-17 6:03:38 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29349240/154-new-brighton-lane-se-calgary-new-brighton",
@@ -16350,10 +15738,10 @@
         }
       ],
       "InsertedDateUTC": "639063585439670000",
-      "TimeOnRealtor": "7 days ago",
+      "TimeOnRealtor": "6 days ago",
       "Tags": [
         {
-          "Label": "7 days ago",
+          "Label": "6 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -17818,8 +17206,14 @@
         }
       ],
       "InsertedDateUTC": "639062890763430000",
-      "TimeOnRealtor": "",
-      "Tags": [],
+      "TimeOnRealtor": "7 days ago",
+      "Tags": [
+        {
+          "Label": "7 days ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
       "UploadedBy": 9
     },
     {
@@ -17978,8 +17372,14 @@
         }
       ],
       "InsertedDateUTC": "639062709936470000",
-      "TimeOnRealtor": "",
-      "Tags": [],
+      "TimeOnRealtor": "7 days ago",
+      "Tags": [
+        {
+          "Label": "7 days ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
       "UploadedBy": 25
     },
     {
@@ -18138,8 +17538,14 @@
         }
       ],
       "InsertedDateUTC": "639062697932070000",
-      "TimeOnRealtor": "",
-      "Tags": [],
+      "TimeOnRealtor": "7 days ago",
+      "Tags": [
+        {
+          "Label": "7 days ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
       "UploadedBy": 25
     },
     {
@@ -18326,10 +17732,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069535084000000/reb9/highres/6/A2284356_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069535084000000/reb9/medres/6/A2284356_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069535084000000/reb9/lowres/6/A2284356_1.jpg",
-            "LastUpdated": "2026-02-17 7:31:48 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639062422702300000/reb9/highres/6/A2284356_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639062422702300000/reb9/medres/6/A2284356_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639062422702300000/reb9/lowres/6/A2284356_1.jpg",
+            "LastUpdated": "2026-02-09 1:57:50 PM",
             "TypeId": "0"
           }
         ],
@@ -18369,8 +17775,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29340587/328-douglas-glen-heath-se-calgary-douglasdaleglen",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-18 12:31:49 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-09 6:57:50 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29340587/328-douglas-glen-heath-se-calgary-douglasdaleglen",
       "RelativeURLFr": "/immobilier/29340587/328-douglas-glen-heath-se-calgary",
@@ -22655,10 +22060,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069570528770000/reb9/highres/7/A2284137_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069570528770000/reb9/medres/7/A2284137_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069570528770000/reb9/lowres/7/A2284137_1.jpg",
-            "LastUpdated": "2026-02-17 8:30:52 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639059658615370000/reb9/highres/7/A2284137_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639059658615370000/reb9/medres/7/A2284137_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639059658615370000/reb9/lowres/7/A2284137_1.jpg",
+            "LastUpdated": "2026-02-06 9:11:01 AM",
             "TypeId": "0"
           }
         ],
@@ -22697,8 +22102,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29331190/19-garrick-drive-sw-calgary-glamorgan",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-18 1:31:04 AM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-06 2:11:01 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29331190/19-garrick-drive-sw-calgary-glamorgan",
       "RelativeURLFr": "/immobilier/29331190/19-garrick-drive-sw-calgary",
@@ -22712,6 +22116,228 @@
         }
       ],
       "InsertedDateUTC": "639059307833300000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29330586",
+      "MlsNumber": "A2284311",
+      "PublicRemarks": "Welcome to this beautifully renovated detached bungalow located in the highly desirable community of Shawnessy SW, Calgary. Situated on a quiet cul-de-sac and just a 2-minute walk to the C-Train station, this home offers exceptional convenience, comfort, and investment potential.Featuring 1,104 sq. ft. on the main level, new windows, new appliances and a fully finished basement (illegal suite), this property offers a total of 6 bedrooms and 3 bathrooms, making it ideal for families, multi-generational living, or investors.Upon entry, you are welcomed by a spacious foyer leading into a practical open-concept layout. The main floor showcases a modern kitchen with stainless steel appliances, a large island, and ample cabinetry, overlooking the dining and living areas—perfect for entertaining. Large windows flood the home with natural light, while vaulted ceilings enhance the sense of space and openness.The main level features a 4-piece bathroom, a primary bedroom with walk-in closet and private 3-piece ensuite, along with two additional well-sized bedrooms.The fully finished basement (illegal suite) offers a separate entrance, large recreation room, separate laundry, three additional bedrooms, and a 4-piece bathroom, providing excellent additional living space and flexibility.Located close to schools, shopping, parks, transit, and all major amenities, this move-in-ready home is truly a rare find in Shawnessy.With 6 bedrooms, 3 bathrooms, and unbeatable transit access, this home is a must-see.Book your private showing today! (31614897)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "3 + 3",
+        "SizeInterior": "1104 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1104 sqft",
+            "AreaUnformatted": "1104 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2022785,
+          "Name": "Gurjit Birring",
+          "Organization": {
+            "OrganizationID": 54517,
+            "Name": "RE/MAX House of Real Estate",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS639053955000000000/lowres/1005168.jpg",
+            "Address": {
+              "AddressText": "4034 16 STREET SW|CALGARY, Alberta T2T4H4",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "287-3880",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54517/remax-house-of-real-estate-4034-16-street-sw-calgary-alberta-t2t4h4",
+            "PhotoLastupdate": "2026-01-30 6:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "404-8100",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577579689"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638533836600000000/lowres/1302392.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Gurjit",
+          "LastName": "Birring",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2022785/gurjit-birring-4034-16-street-sw-calgary-alberta-t2t4h4",
+          "AgentPhotoLastUpdated": "2024-06-07 19:01:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638533836600000000/highres/1302392.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 2236508,
+          "Name": "Gursahib Singh",
+          "Organization": {
+            "OrganizationID": 54517,
+            "Name": "RE/MAX House of Real Estate",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS639053955000000000/lowres/1005168.jpg",
+            "Address": {
+              "AddressText": "4034 16 STREET SW|CALGARY, Alberta T2T4H4",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "287-3880",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54517/remax-house-of-real-estate-4034-16-street-sw-calgary-alberta-t2t4h4",
+            "PhotoLastupdate": "2026-01-30 6:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "678-9997",
+              "AreaCode": "587",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577579304"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638820436200000000/lowres/1474317.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Gursahib",
+          "LastName": "Singh",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2236508/gursahib-singh-4034-16-street-sw-calgary-alberta-t2t4h4",
+          "AgentPhotoLastUpdated": "2025-05-05 12:07:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638820436200000000/highres/1474317.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$599,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "23 Shawmeadows Place SW|Calgary, Alberta T2Y1G3",
+          "Longitude": "-114.072596666",
+          "Latitude": "50.908451813",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639062389425270000/reb9/highres/1/A2284311_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639062389425270000/reb9/medres/1/A2284311_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639062389425270000/reb9/lowres/1/A2284311_1.jpg",
+            "LastUpdated": "2026-02-09 1:02:22 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Parking Pad"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Parking Pad",
+        "PriceUnformattedValue": "599900",
+        "ShortValue": "600K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "338 m2|0-4,050 sqft",
+        "SizeFrontage": "11 m"
+      },
+      "AlternateURL": {
+        "BrochureLink": "https://elite-measurements.aryeo.com/sites/nwagzav/unbranded",
+        "MapLink": "https://maps.app.goo.gl/CFGgt6NSyfuJurpZ6?g_st=ic",
+        "VideoLink": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab"
+      },
+      "PostalCode": "T2Y1G3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29330586/23-shawmeadows-place-sw-calgary-shawnessy",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-02-09 6:02:22 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29330586/23-shawmeadows-place-sw-calgary-shawnessy",
+      "RelativeURLFr": "/immobilier/29330586/23-shawmeadows-place-sw-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "4",
+          "MediaCategoryURL": "https://elite-measurements.aryeo.com/sites/nwagzav/unbranded",
+          "Description": "SalesBrochureWebsite",
+          "Order": 4
+        },
+        {
+          "MediaCategoryId": "7",
+          "MediaCategoryURL": "https://maps.app.goo.gl/CFGgt6NSyfuJurpZ6?g_st=ic",
+          "Description": "MapWebsite",
+          "Order": 6
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab/doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab/doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639059253836100000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
@@ -27511,7 +27137,7 @@
     {
       "Id": "29317054",
       "MlsNumber": "A2281991",
-      "PublicRemarks": "*OPEN HOUSE | Saturday February 21st & Sunday February 22nd from 2-430PM.* Thoughtfully renovated family home on matrure tree lined street sitting on a huge pie lot is located in the heart of charming McKenzie Towne. Featuring a bright and spacious layout with 4 bedrooms, 3.5 bathrooms, and 2149 square feet of comfortable living space designed for everyday family life. The thoughtfully laid out main floor features a welcoming living room with cozy fireplace, spacious dining area, well-appointed kitchen with new cabinets and appliances, powder room, and laundry. Upstairs, the primary bedroom provides a peaceful retreat with a walk-through closet leading to an ensuite complete with a relaxing soaker tub. Upper level offers two additional bedrooms and a full bathroom. The fully developed lower level adds a generous recreation room, flex space, a full bathroom, and an additional bedroom ideal for guests, teens, or a home office. The sunny backyard is a standout, offering endless possibilities for outdoor fun with room for play, a trampoline, or a backyard hockey rink, along with a spacious new two-level deck perfect for dining and relaxing with friends. A detached heated oversized two-car garage (zoned for carriage home addition), storage shed, and fenced RV parking offer ample space for all your vehicles and gear. Surrounded by excellent schools, parks, shops, and amenities, and located close to the new South Campus Hospital, with quick access to major roadways. This home is a must-see; book now to see the outstanding lifestyle and start making new memories in this well-love home and community. (31599045)",
+      "PublicRemarks": "Thoughtfully renovated family home on matrure tree lined street sitting on a huge pie lot is located in the heart of charming McKenzie Towne. Featuring a bright and spacious layout with 4 bedrooms, 3.5 bathrooms, and 2149 square feet of comfortable living space designed for everyday family life. The thoughtfully laid out main floor features a welcoming living room with cozy fireplace, spacious dining area, well-appointed kitchen with new cabinets and appliances, powder room, and laundry. Upstairs, the primary bedroom provides a peaceful retreat with a walk-through closet leading to an ensuite complete with a relaxing soaker tub. Upper level offers two additional bedrooms and a full bathroom. The fully developed lower level adds a generous recreation room, flex space, a full bathroom, and an additional bedroom ideal for guests, teens, or a home office. The sunny backyard is a standout, offering endless possibilities for outdoor fun with room for play, a trampoline, or a backyard hockey rink, along with a spacious new two-level deck perfect for dining and relaxing with friends. A detached heated oversized two-car garage (zoned for carriage home addition), storage shed, and fenced RV parking offer ample space for all your vehicles and gear. Surrounded by excellent schools, parks, shops, and amenities, and located close to the new South Campus Hospital, with quick access to major roadways. This home is a must-see; book now to see the outstanding lifestyle and start making new memories in this well-love home and community. (31599045)",
       "Building": {
         "BathroomTotal": "4",
         "Bedrooms": "3 + 1",
@@ -27640,11 +27266,11 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069439364800000/reb9/highres/1/A2281991_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069439364800000/reb9/medres/1/A2281991_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069439364800000/reb9/lowres/1/A2281991_1.jpg",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639063205413870000/reb9/highres/1/A2281991_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639063205413870000/reb9/medres/1/A2281991_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639063205413870000/reb9/lowres/1/A2281991_1.jpg",
             "Description": "HUGE LOT & FULLY RENOVATED HOME",
-            "LastUpdated": "2026-02-17 4:52:16 PM",
+            "LastUpdated": "2026-02-10 11:42:21 AM",
             "TypeId": "0"
           }
         ],
@@ -27682,22 +27308,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [
-        {
-          "StartTime": "Feb 21/26 - 2:00 PM To 4:30 PM",
-          "StartDateTime": "21/02/2026 2:00:00 PM",
-          "EndDateTime": "21/02/2026 4:30:00 PM",
-          "FormattedDateTime": "Feb 21/26 - 2:00 PM To 4:30 PM",
-          "EventTypeID": "1"
-        },
-        {
-          "StartTime": "Feb 22/26 - 2:00 PM To 4:30 PM",
-          "StartDateTime": "22/02/2026 2:00:00 PM",
-          "EndDateTime": "22/02/2026 4:30:00 PM",
-          "FormattedDateTime": "Feb 22/26 - 2:00 PM To 4:30 PM",
-          "EventTypeID": "1"
-        }
-      ],
       "Business": {},
       "Land": {
         "SizeTotal": "7470.15 sqft|7,251 - 10,889 sqft",
@@ -27713,11 +27323,9 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29317054/39-prestwick-heath-se-calgary-mckenzie-towne",
       "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-02-17 10:05:29 PM",
-      "HasOpenHouseUpdate": true,
+      "OpenHouseInsertDateUTC": "2026-02-03 2:30:42 PM",
       "PriceChangeDateUTC": "2026-02-10 4:55:59 PM",
-      "PhotoChangeDateUTC": "2026-02-17 9:52:20 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-10 4:42:21 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29317054/39-prestwick-heath-se-calgary-mckenzie-towne",
       "RelativeURLFr": "/immobilier/29317054/39-prestwick-heath-se-calgary",
@@ -30899,6 +30507,260 @@
       "ListingGMT": "-07:00:00",
       "Media": [],
       "InsertedDateUTC": "639054357945900000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29308756",
+      "MlsNumber": "A2275829",
+      "PublicRemarks": "This remarkable semi-estate property offers an exceptional blend of luxury, space, and functionality, designed to impress from the moment you arrive featuring 2 Primary bedrooms, SPICE Kitchen, Built-in appliances, feature walls, bedroom and a full bathroom at the main floor, 2 Living areas, OPEN TO BELOW and a lot more to explore. Situated on a conventional lot, the home boasts a 3 car garage and features 9-foot ceilings on all three levels, enhancing the sense of openness and sophistication throughout. As you step inside, you're greeted by a dramatic open-to-below foyer with custom feature walls that set the tone for the elegance found across the home. The main floor is thoughtfully designed with a full bedroom and full bathroom, perfect for guests or multi-generational living. A large living area centers around a beautiful gas fireplace with built-in features, while a spice kitchen adds functionality and convenience. The heart of the home is the gourmet kitchen, complete with built-in appliances and a massive island — an ideal space for entertaining and culinary creativity. Upstairs, you’ll find two spacious primary bedrooms. The main primary suite offers a luxurious 6-piece ensuite and a generous walk-in closet, while the second primary features its own elegant 5-piece ensuite. Two additional bedrooms share a third bathroom and are complemented by a huge bonus area, perfect for a media room or play space. A conveniently located laundry room completes the upper floor. The unfinished walkout basement is waiting for your imagination. With its thoughtful layout, upscale finishes, and room to grow, this home truly offers a lot to explore and even more to love. (31584585)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "5",
+        "SizeInterior": "3126 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "3126 sqft",
+            "AreaUnformatted": "3126 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1993763,
+          "Name": "Arun Kaushal",
+          "Organization": {
+            "OrganizationID": 286565,
+            "Name": "PREP Realty",
+            "Address": {
+              "AddressText": "1201 3730 108 AVENUE NE|CALGARY, Alberta T3N1V9",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "270-4682",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "541447914"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/286565/prep-realty-1201-3730-108-avenue-ne-calgary-alberta-t3n1v9",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "618-2112",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.arunkaushal.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/calgaryakrealtor/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/arun-kaushal-00240229",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://twitter.com/arunkshl",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://instagram.com/arunkshl",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576504628"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638744557200000000/lowres/1276797.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "Arun",
+          "LastName": "Kaushal",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1993763/arun-kaushal-1201-3730-108-avenue-ne-calgary-alberta-t3n1v9",
+          "AgentPhotoLastUpdated": "2025-02-06 16:22:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638744557200000000/highres/1276797.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 2095031,
+          "Name": "Sahil Kaushal",
+          "Organization": {
+            "OrganizationID": 286565,
+            "Name": "PREP Realty",
+            "Address": {
+              "AddressText": "1201 3730 108 AVENUE NE|CALGARY, Alberta T3N1V9",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "270-4682",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "541447914"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/286565/prep-realty-1201-3730-108-avenue-ne-calgary-alberta-t3n1v9",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "618-0455",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.facebook.com/sahilkaushal07",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.instagram.com/skushl/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576519864"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638272663800000000/lowres/1367213.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Sahil",
+          "LastName": "Kaushal",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2095031/sahil-kaushal-1201-3730-108-avenue-ne-calgary-alberta-t3n1v9",
+          "AgentPhotoLastUpdated": "2023-08-10 12:13:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638272663800000000/highres/1367213.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,050,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "351 Waterford Grove|Chestermere, Alberta T1X2T9",
+          "Longitude": "-113.850368769",
+          "Latitude": "51.01662631",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639056502783730000/reb9/highres/9/A2275829_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639056502783730000/reb9/medres/9/A2275829_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639056502783730000/reb9/lowres/9/A2275829_1.jpg",
+            "LastUpdated": "2026-02-02 5:31:18 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Other"
+          },
+          {
+            "Name": "Attached Garage",
+            "Spaces": "3"
+          }
+        ],
+        "ParkingSpaceTotal": "6",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Other, Attached Garage (3)",
+        "PriceUnformattedValue": "1050000",
+        "ShortValue": "1.05M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "483 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "14.63 m"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/muw81_351_waterford_grv_chestermere_ab/"
+      },
+      "PostalCode": "T1X2T9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29308756/351-waterford-grove-chestermere",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-02-02 10:31:19 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29308756/351-waterford-grove-chestermere",
+      "RelativeURLFr": "/immobilier/29308756/351-waterford-grove-chestermere",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/muw81_351_waterford_grv_chestermere_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/muw81_351_waterford_grv_chestermere_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/muw81_351_waterford_grv_chestermere_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639054305317300000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
@@ -34222,10 +34084,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069445207470000/reb9/highres/4/A2281714_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069445207470000/reb9/medres/4/A2281714_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069445207470000/reb9/lowres/4/A2281714_1.jpg",
-            "LastUpdated": "2026-02-17 5:02:00 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639067920381870000/reb9/highres/4/A2281714_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639067920381870000/reb9/medres/4/A2281714_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639067920381870000/reb9/lowres/4/A2281714_1.jpg",
+            "LastUpdated": "2026-02-15 10:40:38 PM",
             "TypeId": "0"
           }
         ],
@@ -34260,8 +34122,7 @@
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-10 4:35:09 PM",
       "PriceChangeDateUTC": "2026-02-06 12:29:30 AM",
-      "PhotoChangeDateUTC": "2026-02-17 10:02:01 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-16 3:40:44 AM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29301080/77-marquis-common-se-calgary-mahogany",
       "RelativeURLFr": "/immobilier/29301080/77-marquis-common-se-calgary",
@@ -40757,7 +40618,7 @@
     {
       "Id": "29280280",
       "MlsNumber": "A2279893",
-      "PublicRemarks": "Welcome to this beautifully designed former showhome by Dream in the sought after community of Alpine Park. In a prime location just a quick walk to all of the planned village amenities this is the the time to get in before they are all completed.  This detached two storey home with a third level loft features a smart, functional layout that prioritizes purposeful spaces over wide open floor plans, reflecting one of the leading design trends for 2026.  The main floor features distinct yet connected living and dining areas that integrate seamlessly with outdoor spaces. Windows at both the front and back of the home allow natural light to flow throughout the day. The living and dining rooms sit on the west side of the home, anchored by a cozy gas fireplace. Sliding patio doors on both sides of the space create easy indoor and outdoor living and allow for flexible furniture arrangements.  The kitchen is spacious and well designed, perfect for the home chef. A moody blue colour palette paired with crisp white cabinetry creates striking contrast against the rich hardwood floors. Features include upgraded stainless steel appliances, open shelving, a large island, and a corner walk through pantry.  Just off the kitchen is a bright front flex room, ideal for a home office or playroom. A large south facing bay window fills the space with natural light and offers views of the private park across the street. A discreet powder room and rear mudroom lead to the full width back deck, yard, and oversized garage.  The second level offers three generous bedrooms, including a primary retreat that impresses with a vaulted ceiling and sun filled atmosphere. The large walk in closet leads to a spa inspired ensuite featuring dual sinks, a standalone tub, and a full walk in shower. Two additional bedrooms, a four piece bathroom, and a conveniently located laundry room complete this level.  The third level loft is a valuable upgrade from the standard plan and adds exceptional flexibility a nd square footage. This space is ideal for a media room, play area, study space, or teen retreat, with views to the north toward downtown and to the south toward the mountains.  This home is ideal for buyers seeking flexible living spaces, a low maintenance exterior with no shovelling, seamless indoor and outdoor flow, and elevated finishes throughout. Alpine Park offers the perfect balance of city and nature, located approximately 15 minutes from downtown Calgary and 30 minutes from the Rocky Mountains. Designed to bring people together, the community features parks, pathways, and convenient access to everyday amenities just minutes away. The small monthly condo fee of $102 includes the HOA fee for Alpine Park as well a snow removal and upkeep of greenspace's' /common areas. (31560173)",
+      "PublicRemarks": "Welcome to this beautifully designed former showhome by Dream in the sought after new community of Alpine Park. This detached two storey home with a third level loft features a smart, functional layout that prioritizes purposeful spaces over wide open floor plans, reflecting one of the leading design trends for 2026.  The main floor features distinct yet connected living and dining areas that integrate seamlessly with outdoor spaces. Windows at both the front and back of the home allow natural light to flow throughout the day. The living and dining rooms sit on the west side of the home, anchored by a cozy gas fireplace. Sliding patio doors on both sides of the space create easy indoor and outdoor living and allow for flexible furniture arrangements.  The kitchen is spacious and well designed, perfect for the home chef. A moody blue colour palette paired with crisp white cabinetry creates striking contrast against the rich hardwood floors. Features include upgraded stainless steel appliances, open shelving, a large island, and a corner walk through pantry.  Just off the kitchen is a bright front flex room, ideal for a home office or playroom. A large south facing bay window fills the space with natural light and offers views of the private park across the street. A discreet powder room and rear mudroom lead to the full width back deck, yard, and oversized garage.  The second level offers three generous bedrooms, including a primary retreat that impresses with a vaulted ceiling and sun filled atmosphere. The large walk in closet leads to a spa inspired ensuite featuring dual sinks, a standalone tub, and a full walk in shower. Two additional bedrooms, a four piece bathroom, and a conveniently located laundry room complete this level.  The third level loft is a valuable upgrade from the standard plan and adds exceptional flexibility and square footage. This space is ideal for a media room, play area, study space, or teen retreat, with views to the north toward downtown  and to the south toward the mountains.  This home is ideal for buyers seeking flexible living spaces, a low maintenance exterior with no shovelling, seamless indoor and outdoor flow, and elevated finishes throughout. Alpine Park offers the perfect balance of city and nature, located approximately 15 minutes from downtown Calgary and 30 minutes from the Rocky Mountains. Designed to bring people together, the community features parks, pathways, and convenient access to everyday amenities just minutes away. The small monthly condo fee of $102 includes the HOA fee for Alpine Park as well a snow removal and upkeep of greenspace's' /common areas. (31560173)",
       "Building": {
         "BathroomTotal": "3",
         "Bedrooms": "3",
@@ -40873,10 +40734,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069444873270000/reb9/highres/3/A2279893_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069444873270000/reb9/medres/3/A2279893_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069444873270000/reb9/lowres/3/A2279893_1.jpg",
-            "LastUpdated": "2026-02-17 5:01:27 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639046870669900000/reb9/highres/3/A2279893_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639046870669900000/reb9/medres/3/A2279893_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639046870669900000/reb9/lowres/3/A2279893_1.jpg",
+            "LastUpdated": "2026-01-22 1:57:46 PM",
             "TypeId": "0"
           }
         ],
@@ -40911,8 +40772,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29280280/16-treeline-lane-sw-calgary-alpine-park",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 10:01:29 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-01-22 6:57:46 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29280280/16-treeline-lane-sw-calgary-alpine-park",
       "RelativeURLFr": "/immobilier/29280280/16-treeline-lane-sw-calgary",
@@ -61284,10 +61144,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069504654770000/reb9/highres/5/A2273175_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069504654770000/reb9/medres/5/A2273175_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069504654770000/reb9/lowres/5/A2273175_1.jpg",
-            "LastUpdated": "2026-02-17 6:41:05 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639057876394370000/reb9/highres/5/A2273175_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639057876394370000/reb9/medres/5/A2273175_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639057876394370000/reb9/lowres/5/A2273175_1.jpg",
+            "LastUpdated": "2026-02-04 7:40:39 AM",
             "TypeId": "0"
           }
         ],
@@ -61321,8 +61181,7 @@
       "RelativeDetailsURL": "/real-estate/29168821/161-rainbow-falls-glen-chestermere-rainbow-falls",
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-04 1:24:11 PM",
-      "PhotoChangeDateUTC": "2026-02-17 11:41:10 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-04 12:40:40 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29168821/161-rainbow-falls-glen-chestermere-rainbow-falls",
       "RelativeURLFr": "/immobilier/29168821/161-rainbow-falls-glen-chestermere",
@@ -70707,6 +70566,258 @@
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
+    },
+    {
+      "Id": "28981345",
+      "MlsNumber": "A2263800",
+      "PublicRemarks": "** SHOW HOME ** Welcome home to The Lancaster by Broadview Homes; a lavish 2-storey home boasting 2,489 SqFt with 3 bedrooms, 2.5 bathrooms, a main level office, upper level bonus room and upper level laundry. This home is crafted with elegance, style and comfort in mind! Upgrades include a butler's pantry, built-in custom shelving, wired for sound, wide plank flooring on the main level, plush carpet on the upper level, modern accent walls, a gas fireplace and more! The main level open floor plan is every entertainer's dream. Step into your chef's kitchen outfitted with stainless steel appliances, a gas stove, stone grey countertops and crisp white cabinetry! The large centre island is the perfect space for small meals and socializing while you cook. The dining room is expansive and is equipped for a large leafed dining table when you host and is paired with sliding glass doors that lead to a spacious backyard perfect for the warm summer months! The living room is centred with a floor to ceiling tiled accent wall with a gas fireplace. Off the kitchen is a walk-through butler's pantry with additional cabinetry, a built-in microwave and a walk-in pantry. This connects to the mudroom off the interior garage door with custom built-in shelves for a clean and organized space! The main level office caters to a work-from-home lifestyle. The main level is complete with a 2pc bath. Upstairs holds 3 bedrooms, 2 5pc bathrooms, a bonus room and laundry. The primary bedroom is a private oasis; this room has views of the rolling prairies, an XL walk-in closet and private 5pc spa ensuite bath. The ensuite features a deep soaking tub, walk-in shower, double vanity and private washing closet. The primary bedroom has additional privacy as the bonus room separates this from bedrooms 2 & 3. Both bedrooms 2 & 3 are a spacious and share the main 5pc bath with a tub/shower combo and double vanity with storage below. The bonus room is the perfect space to unwind in the evenings with your fa mily. The laundry located upstairs is every home owner's dream as its near all the bedrooms! Downstairs, the unfinished basement is a blank canvas. With 9Ft ceilings and rough-in plumbing, the basement is ready for your personal touch. The front attached triple garage and driveway provides you with plenty of parking for your vehicle and seasonal toys! Hurry and book your showing at your brand new Broadview Home today! (31245145)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "3",
+        "SizeInterior": "2489 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "2489 sqft",
+            "AreaUnformatted": "2489 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2005921,
+          "Name": "Raman Chahal",
+          "Organization": {
+            "OrganizationID": 289891,
+            "Name": "RE/MAX Crown",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400656400000000/lowres/1382468.jpg",
+            "Address": {
+              "AddressText": "220, 6424 36 St. N.E.|CALGARY, Alberta T3J4C8",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "455-5215",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "541466026"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "https://www.dhillon-chahal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/289891/remax-crown-220-6424-36-st-ne-calgary-alberta-t3j4c8",
+            "PhotoLastupdate": "2024-01-05 3:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "922-2000",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.dhillon-chahal.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/HappeDhillonRamanChahal/",
+              "WebsiteTypeId": "2"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576506713"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637324049400000000/lowres/1288228.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Raman",
+          "LastName": "Chahal",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2005921/raman-chahal-220-6424-36-st-ne-calgary-alberta-t3j4c8",
+          "AgentPhotoLastUpdated": "2020-08-07 13:49:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637324049400000000/highres/1288228.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1984396,
+          "Name": "Happe Dhillon",
+          "Organization": {
+            "OrganizationID": 289891,
+            "Name": "RE/MAX Crown",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400656400000000/lowres/1382468.jpg",
+            "Address": {
+              "AddressText": "220, 6424 36 St. N.E.|CALGARY, Alberta T3J4C8",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "455-5215",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "541466026"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "https://www.dhillon-chahal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/289891/remax-crown-220-6424-36-st-ne-calgary-alberta-t3j4c8",
+            "PhotoLastupdate": "2024-01-05 3:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "667-0012",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.dhillon-chahal.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577582703"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637335625200000000/lowres/1269155.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Happe",
+          "LastName": "Dhillon",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1984396/happe-dhillon-220-6424-36-st-ne-calgary-alberta-t3j4c8",
+          "AgentPhotoLastUpdated": "2020-08-20 23:22:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637335625200000000/highres/1269155.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$840,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "207 Brander Avenue|Langdon, Alberta T0J1X2",
+          "Longitude": "-113.700350907",
+          "Latitude": "50.976270657",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639040218512830000/reb9/highres/0/A2263800_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639040218512830000/reb9/medres/0/A2263800_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639040218512830000/reb9/lowres/0/A2263800_1.jpg",
+            "LastUpdated": "2026-01-14 9:10:51 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Street"
+          },
+          {
+            "Name": "Attached Garage",
+            "Spaces": "3"
+          }
+        ],
+        "ParkingSpaceTotal": "6",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Street, Attached Garage (3)",
+        "PriceUnformattedValue": "840900",
+        "ShortValue": "841K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "0.16 ac|4,051 - 7,250 sqft",
+        "SizeFrontage": "17.07 m"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/207_brander_ave_langdon_ab/"
+      },
+      "PostalCode": "T0J1X2",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28981345/207-brander-avenue-langdon",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-01-15 2:10:55 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28981345/207-brander-avenue-langdon",
+      "RelativeURLFr": "/immobilier/28981345/207-brander-avenue-langdon",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/207_brander_ave_langdon_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 2,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/207_brander_ave_langdon_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/207_brander_ave_langdon_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "638958126684500000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
     }
   ],
   "rental": [
@@ -70871,10 +70982,10 @@
       "RelativeURLFr": "/immobilier/29367949/25-mckernan-road-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639069508013870000",
-      "TimeOnRealtor": "8 hours ago",
+      "TimeOnRealtor": "2 hours ago",
       "Tags": [
         {
-          "Label": "8 hours ago",
+          "Label": "2 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -71124,10 +71235,10 @@
         }
       ],
       "InsertedDateUTC": "639068751957370000",
-      "TimeOnRealtor": "1 day ago",
+      "TimeOnRealtor": "23 hours ago",
       "Tags": [
         {
-          "Label": "1 day ago",
+          "Label": "23 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -71281,10 +71392,10 @@
       "RelativeURLFr": "/immobilier/29363655/7139-18-street-se-calgary",
       "Media": [],
       "InsertedDateUTC": "639067984652830000",
-      "TimeOnRealtor": "2 days ago",
+      "TimeOnRealtor": "1 day ago",
       "Tags": [
         {
-          "Label": "2 days ago",
+          "Label": "1 day ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -71478,10 +71589,10 @@
         }
       ],
       "InsertedDateUTC": "639066186554270000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "3 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "3 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -71924,10 +72035,11 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069470427400000/reb9/highres/3/A2285543_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069470427400000/reb9/medres/3/A2285543_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069470427400000/reb9/lowres/3/A2285543_1.jpg",
-            "LastUpdated": "2026-02-17 5:44:02 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639065674432430000/reb9/highres/3/A2285543_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639065674432430000/reb9/medres/3/A2285543_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639065674432430000/reb9/lowres/3/A2285543_1.jpg",
+            "Description": "Oversized Bungalow in the Community of Dover!!",
+            "LastUpdated": "2026-02-13 8:17:23 AM",
             "TypeId": "0"
           }
         ],
@@ -71964,8 +72076,7 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29357764/3236-doverville-crescent-se-calgary-dover",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-17 10:44:03 PM",
-      "HasNewImageUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-13 1:17:23 PM",
       "Distance": "",
       "RelativeURLEn": "/real-estate/29357764/3236-doverville-crescent-se-calgary-dover",
       "RelativeURLFr": "/immobilier/29357764/3236-doverville-crescent-se-calgary",
@@ -73787,10 +73898,10 @@
         }
       ],
       "InsertedDateUTC": "639064619979370000",
-      "TimeOnRealtor": "6 days ago",
+      "TimeOnRealtor": "5 days ago",
       "Tags": [
         {
-          "Label": "6 days ago",
+          "Label": "5 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -74353,10 +74464,10 @@
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069594818300000/reb9/highres/6/A2284696_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069594818300000/reb9/medres/6/A2284696_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069594818300000/reb9/lowres/6/A2284696_1.jpg",
-            "LastUpdated": "2026-02-17 9:11:21 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639069302173230000/reb9/highres/6/A2284696_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639069302173230000/reb9/medres/6/A2284696_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639069302173230000/reb9/lowres/6/A2284696_1.jpg",
+            "LastUpdated": "2026-02-17 1:03:37 PM",
             "TypeId": "0"
           }
         ],
@@ -74379,15 +74490,6 @@
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
-      "OpenHouse": [
-        {
-          "StartTime": "Feb 21/26 - 3:00 PM To 5:00 PM",
-          "StartDateTime": "21/02/2026 3:00:00 PM",
-          "EndDateTime": "21/02/2026 5:00:00 PM",
-          "FormattedDateTime": "Feb 21/26 - 3:00 PM To 5:00 PM",
-          "EventTypeID": "1"
-        }
-      ],
       "Business": {},
       "Land": {
         "SizeTotal": "429 m2|4,051 - 7,250 sqft",
@@ -74402,9 +74504,8 @@
       "ProvinceName": "Alberta",
       "RelativeDetailsURL": "/real-estate/29349240/154-new-brighton-lane-se-calgary-new-brighton",
       "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-02-18 2:34:52 AM",
-      "HasOpenHouseUpdate": true,
-      "PhotoChangeDateUTC": "2026-02-18 2:11:24 AM",
+      "OpenHouseInsertDateUTC": "2026-02-14 4:19:36 PM",
+      "PhotoChangeDateUTC": "2026-02-17 6:03:38 PM",
       "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29349240/154-new-brighton-lane-se-calgary-new-brighton",
@@ -76163,6 +76264,228 @@
         }
       ],
       "InsertedDateUTC": "639060003907000000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29330586",
+      "MlsNumber": "A2284311",
+      "PublicRemarks": "Welcome to this beautifully renovated detached bungalow located in the highly desirable community of Shawnessy SW, Calgary. Situated on a quiet cul-de-sac and just a 2-minute walk to the C-Train station, this home offers exceptional convenience, comfort, and investment potential.Featuring 1,104 sq. ft. on the main level, new windows, new appliances and a fully finished basement (illegal suite), this property offers a total of 6 bedrooms and 3 bathrooms, making it ideal for families, multi-generational living, or investors.Upon entry, you are welcomed by a spacious foyer leading into a practical open-concept layout. The main floor showcases a modern kitchen with stainless steel appliances, a large island, and ample cabinetry, overlooking the dining and living areas—perfect for entertaining. Large windows flood the home with natural light, while vaulted ceilings enhance the sense of space and openness.The main level features a 4-piece bathroom, a primary bedroom with walk-in closet and private 3-piece ensuite, along with two additional well-sized bedrooms.The fully finished basement (illegal suite) offers a separate entrance, large recreation room, separate laundry, three additional bedrooms, and a 4-piece bathroom, providing excellent additional living space and flexibility.Located close to schools, shopping, parks, transit, and all major amenities, this move-in-ready home is truly a rare find in Shawnessy.With 6 bedrooms, 3 bathrooms, and unbeatable transit access, this home is a must-see.Book your private showing today! (31614897)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "3 + 3",
+        "SizeInterior": "1104 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1104 sqft",
+            "AreaUnformatted": "1104 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2022785,
+          "Name": "Gurjit Birring",
+          "Organization": {
+            "OrganizationID": 54517,
+            "Name": "RE/MAX House of Real Estate",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS639053955000000000/lowres/1005168.jpg",
+            "Address": {
+              "AddressText": "4034 16 STREET SW|CALGARY, Alberta T2T4H4",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "287-3880",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54517/remax-house-of-real-estate-4034-16-street-sw-calgary-alberta-t2t4h4",
+            "PhotoLastupdate": "2026-01-30 6:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "404-8100",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577579689"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638533836600000000/lowres/1302392.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Gurjit",
+          "LastName": "Birring",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2022785/gurjit-birring-4034-16-street-sw-calgary-alberta-t2t4h4",
+          "AgentPhotoLastUpdated": "2024-06-07 19:01:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638533836600000000/highres/1302392.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 2236508,
+          "Name": "Gursahib Singh",
+          "Organization": {
+            "OrganizationID": 54517,
+            "Name": "RE/MAX House of Real Estate",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS639053955000000000/lowres/1005168.jpg",
+            "Address": {
+              "AddressText": "4034 16 STREET SW|CALGARY, Alberta T2T4H4",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "287-3880",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54517/remax-house-of-real-estate-4034-16-street-sw-calgary-alberta-t2t4h4",
+            "PhotoLastupdate": "2026-01-30 6:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "678-9997",
+              "AreaCode": "587",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577579304"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638820436200000000/lowres/1474317.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Gursahib",
+          "LastName": "Singh",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2236508/gursahib-singh-4034-16-street-sw-calgary-alberta-t2t4h4",
+          "AgentPhotoLastUpdated": "2025-05-05 12:07:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638820436200000000/highres/1474317.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$599,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "23 Shawmeadows Place SW|Calgary, Alberta T2Y1G3",
+          "Longitude": "-114.072596666",
+          "Latitude": "50.908451813",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639062389425270000/reb9/highres/1/A2284311_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639062389425270000/reb9/medres/1/A2284311_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639062389425270000/reb9/lowres/1/A2284311_1.jpg",
+            "LastUpdated": "2026-02-09 1:02:22 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Parking Pad"
+          }
+        ],
+        "ParkingSpaceTotal": "1",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Parking Pad",
+        "PriceUnformattedValue": "599900",
+        "ShortValue": "600K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "338 m2|0-4,050 sqft",
+        "SizeFrontage": "11 m"
+      },
+      "AlternateURL": {
+        "BrochureLink": "https://elite-measurements.aryeo.com/sites/nwagzav/unbranded",
+        "MapLink": "https://maps.app.goo.gl/CFGgt6NSyfuJurpZ6?g_st=ic",
+        "VideoLink": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab"
+      },
+      "PostalCode": "T2Y1G3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29330586/23-shawmeadows-place-sw-calgary-shawnessy",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-02-09 6:02:22 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29330586/23-shawmeadows-place-sw-calgary-shawnessy",
+      "RelativeURLFr": "/immobilier/29330586/23-shawmeadows-place-sw-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "4",
+          "MediaCategoryURL": "https://elite-measurements.aryeo.com/sites/nwagzav/unbranded",
+          "Description": "SalesBrochureWebsite",
+          "Order": 4
+        },
+        {
+          "MediaCategoryId": "7",
+          "MediaCategoryURL": "https://maps.app.goo.gl/CFGgt6NSyfuJurpZ6?g_st=ic",
+          "Description": "MapWebsite",
+          "Order": 6
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab/doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/23_shawmeadows_pl_sw_calgary_ab/doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639059253836100000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9

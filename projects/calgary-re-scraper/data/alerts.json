@@ -2,25 +2,49 @@
   {
     "profile": "walkout",
     "score": 60,
-    "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE 📐 LOT:6383 sqft|4,051 - 7,250 sqft",
-    "price": "$975,000",
-    "address": "3335 OAKWOOD DRIVE  SW|Calgary, Alberta T2V4V6",
-    "beds": "3 + 2",
+    "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE 💰 <800K 📐 SPECIAL LOT",
+    "price": "$714,900",
+    "address": "19 Copperfield Crescent SE|Calgary, Alberta T2Z4L5",
+    "beds": "3 + 1",
     "baths": "4",
-    "sqft": "2096 sqft",
-    "url": "https://www.realtor.ca/real-estate/29364217/3335-oakwood-drive-sw-calgary-oakridge",
-    "mls": "A2277744"
+    "sqft": "1875.75 sqft",
+    "url": "https://www.realtor.ca/real-estate/29367129/19-copperfield-crescent-se-calgary-copperfield",
+    "mls": "A2286664"
+  },
+  {
+    "profile": "walkout",
+    "score": 60,
+    "flags": "🚪 WALKOUT 🌲 NATURE 🏡 BUNGALOW 🏠 SUITE 📐 SPECIAL LOT",
+    "price": "$839,900",
+    "address": "569 Boulder Creek Circle SE|Langdon, Alberta T0J1X3",
+    "beds": "2 + 2",
+    "baths": "3",
+    "sqft": "1828.8 sqft",
+    "url": "https://www.realtor.ca/real-estate/29252303/569-boulder-creek-circle-se-langdon-boulder-creek-estates",
+    "mls": "A2279303"
   },
   {
     "profile": "walkout",
     "score": 55,
     "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE 📐 SPECIAL LOT",
-    "price": "$1,099,900",
-    "address": "94 Waterford Crescent|Chestermere, Alberta T1X3A2",
-    "beds": "5 + 2",
-    "baths": "5",
-    "sqft": "2821 sqft",
-    "url": "https://www.realtor.ca/real-estate/29364829/94-waterford-crescent-chestermere-waterford",
-    "mls": "A2286717"
+    "price": "$924,900",
+    "address": "260 Boulder Creek Crescent SE|Langdon, Alberta T0J1X3",
+    "beds": "3",
+    "baths": "4",
+    "sqft": "2137.99 sqft",
+    "url": "https://www.realtor.ca/real-estate/29255026/260-boulder-creek-crescent-se-langdon-boulder-creek-estates",
+    "mls": "A2278766"
+  },
+  {
+    "profile": "walkout",
+    "score": 55,
+    "flags": "🚪 WALKOUT 🌲 NATURE 🏠 SUITE 📐 SPECIAL LOT",
+    "price": "$949,900",
+    "address": "264 Boulder Creek Crescent SE|Langdon, Alberta T0J1X3",
+    "beds": "4 + 1",
+    "baths": "4",
+    "sqft": "2743.36 sqft",
+    "url": "https://www.realtor.ca/real-estate/29143619/264-boulder-creek-crescent-se-langdon-boulder-creek-estates",
+    "mls": "A2272417"
   }
 ]

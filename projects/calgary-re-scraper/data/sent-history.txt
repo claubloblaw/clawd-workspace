@@ -1,0 +1,7 @@
+# Sent History — Calgary RE Deal Scanner
+# Format: DATE | MLS | URL
+
+2026-02-17 | A2286664 | https://www.realtor.ca/real-estate/29367129/19-copperfield-crescent-se-calgary-copperfield
+2026-02-17 | A2279303 | https://www.realtor.ca/real-estate/29252303/569-boulder-creek-circle-se-langdon-boulder-creek-estates
+2026-02-17 | A2278766 | https://www.realtor.ca/real-estate/29255026/260-boulder-creek-crescent-se-langdon-boulder-creek-estates
+2026-02-17 | A2272417 | https://www.realtor.ca/real-estate/29143619/264-boulder-creek-crescent-se-langdon-boulder-creek-estates
