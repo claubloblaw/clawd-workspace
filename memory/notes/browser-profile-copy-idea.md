@@ -1,3 +1,10 @@
+---
+type: note
+description: "Copy Chrome profile to give Playwright agent sessions — avoids auth flows. Not yet implemented."
+topics: ["[[moc-technical]]"]
+created: 2026-02-17
+---
+
 # Browser Profile Copy for Auth
 
 **Status:** Planned, not yet implemented

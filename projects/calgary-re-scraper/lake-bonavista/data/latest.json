@@ -1,19 +1,19 @@
 {
   "listings": [
     {
-      "Id": "29370747",
-      "MlsNumber": "A2286863",
-      "PublicRemarks": "Welcome to 128 Cantrell Place in Canyon Meadows!This beautifully renovated bungalow offers the perfect blend of style, comfort, and functionality in one of Calgary’s most established and sought-after communities. With 5 bedrooms, 3 bathrooms, a fully finished basement, and a private side entrance,Main Floor LivingThe main level features a spacious, light-filled layout with 3 bedrooms and 2 full bathrooms, including a private ensuite in the primary bedroom. The modernized kitchen flows seamlessly into the dining and living areas, creating an inviting space for everyday living and entertaining.Fully Finished BasementThe lower level has been built from the ground up and includes 2 additional bedrooms, a full bathroom, and a large games/rec room. With its own side entrance, the basement offers excellent flexibility for extended family, and guests. Extensive UpgradesThis home has undergone a full transformation with high-quality renovations throughout, including:- New drywall on the main floor ceiling- Fully updated bathrooms- Newly developed basement from scratch- New windows, modern deck.Outdoor & Community - The backyard provides the perfect space for relaxation or entertaining, while the front curb appeal reflects the care and upgrades put into this property.Don’t miss your opportunity to own this move-in-ready bungalow in one of Calgary’s most desirable neighborhoods! (31657610)",
+      "Id": "29375787",
+      "MlsNumber": "A2287300",
+      "PublicRemarks": "LARGE LOT | RENOVATED INSIDE AND OUT | BRIGHT & SPACIOUS | MODERN OPEN CONCEPT | 4 BEDS & 3 FULL BATHS | GYM | WET BAR | NEW AIR CONDTIONER | HEATED ENSUITE FLOOR | STEAM SHOWER | OVERSIZED DETACHED GARAGE.Welcome to your dream home in the sought after community of Lake Bonnavista! Fantastic location situated on a Large lot and walking distance to St.Boniface School and Lake Bonnavista School. This stunning home is completely remodeled with unlimited upgrades and features, with all the city permits and Engineer consultation, to give you the warmth of a home .Bright and spacious main floor with vaulted ceiling features a large front window which gives you plenty of sunlight and features a modern open concept with a living room, a cozy fireplace & a dining room. The brand new , elegant and tastefully designed kitchen is a dream for anybody and includes a large center island, premium quartz countertops, stainless steel appliances, gas range , and a lot of storage space,and above all a security camera screen for your security.  The Oak railing adds more to the beauty of this home. Moving further, you are greeted with a primary bedroom with an attached 5 piece ensuite/w steam shower and walk in closet with lot of storage space for his and her. There is another good-sized room with a pocket door to the 4 Pc common washroom and a stackable laundry on the main floor for added convenience. The lower level has a large family room, a wet bar with fridge and a large gym with rubber floor. 2 additional bedrooms and a full washroom complete this floor. To add to all this, all the rooms in the basement have legal-size windows for added light. All new concrete in the front and back. The list goes on with a new hot water tank, roof shingles, siding, hardwood flooring , carpet, new plumbing,new electrical,etc etc . A must-see home.....Please call your realtor and book your showing. (31663087)",
       "Building": {
         "BathroomTotal": "3",
-        "Bedrooms": "3 + 2",
-        "SizeInterior": "1399 sqft",
+        "Bedrooms": "2 + 2",
+        "SizeInterior": "1448 sqft",
         "StoriesTotal": "1",
         "Type": "House",
         "FloorAreaMeasurements": [
           {
-            "Area": "1399 sqft",
-            "AreaUnformatted": "1399 sqft",
+            "Area": "1448 sqft",
+            "AreaUnformatted": "1448 sqft",
             "Type": "Square Footage",
             "Source": "",
             "MeasureUnitId": "1",
@@ -26,121 +26,123 @@
       },
       "Individual": [
         {
-          "IndividualID": 2070874,
-          "Name": "Navpreet Singh Sandhu",
+          "IndividualID": 2066694,
+          "Name": "Anil K. Vashisht",
           "Organization": {
-            "OrganizationID": 296245,
-            "Name": "Executive Real Estate Services",
+            "OrganizationID": 54621,
+            "Name": "TREC The Real Estate Company",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638663354400000000/lowres/1088565.jpg",
             "Address": {
-              "AddressText": "1935 32 AVENUE NE #207|Calgary, Alberta T2E7C8",
+              "AddressText": "#512 22 Midlake Blvd. SE|CALGARY, Alberta T2X2X7",
               "PermitShowAddress": true
             },
             "Phones": [
               {
                 "PhoneType": "Telephone",
-                "PhoneNumber": "926-9999",
+                "PhoneNumber": "270-4060",
                 "AreaCode": "403",
                 "PhoneTypeId": "1"
               }
             ],
-            "Emails": [
-              {
-                "ContactId": "543508724"
-              }
-            ],
             "OrganizationType": "Firm",
-            "HasEmail": true,
             "PermitFreetextEmail": true,
             "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/296245/executive-real-estate-services-1935-32-avenue-ne-207-calgary-alberta-t2e7c8",
-            "PhotoLastupdate": "2024-01-25 6:54:00 PM"
+            "RelativeDetailsURL": "/office/firm/54621/trec-the-real-estate-company-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
+            "PhotoLastupdate": "2024-11-04 4:44:00 PM"
           },
           "Phones": [
             {
               "PhoneType": "Telephone",
-              "PhoneNumber": "975-1469",
+              "PhoneNumber": "561-6761",
               "AreaCode": "403",
               "PhoneTypeId": "1"
             }
           ],
-          "Emails": [
+          "Websites": [
             {
-              "ContactId": "576513487"
+              "Website": "http://www.trecl.ca/",
+              "WebsiteTypeId": "1"
             }
           ],
-          "Photo": "https://cdn.realtor.ca/individual/TS636918089400000000/lowres/1346012.jpg",
+          "Emails": [
+            {
+              "ContactId": "576513078"
+            }
+          ],
           "Position": "Associate",
           "PermitFreetextEmail": true,
-          "FirstName": "Navpreet Singh",
-          "LastName": "Sandhu",
+          "FirstName": "Anil",
+          "LastName": "Vashisht",
           "CorporationDisplayTypeId": "0",
           "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2070874/navpreet-singh-sandhu-1935-32-avenue-ne-207-calgary-alberta-t2e7c8",
-          "AgentPhotoLastUpdated": "2019-04-25 17:09:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636918089400000000/highres/1346012.jpg",
+          "RelativeDetailsURL": "/agent/2066694/anil-vashisht-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
           "RankMyAgentKey": "",
           "RealSatisfiedKey": "",
           "TestimonialTreeKey": ""
         }
       ],
       "Property": {
-        "Price": "$635,000",
+        "Price": "$1,299,900",
         "Type": "Single Family",
         "Address": {
-          "AddressText": "128 Cantrell Place SW|Calgary, Alberta T2W1X2",
-          "Longitude": "-114.073649537",
-          "Latitude": "50.941546282",
+          "AddressText": "1024 lake christina Way SE|Calgary, Alberta T2J2R3",
+          "Longitude": "-114.0380423",
+          "Latitude": "50.9421196",
           "PermitShowAddress": true
         },
         "Photo": [
           {
             "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639069612727400000/reb9/highres/3/A2286863_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639069612727400000/reb9/medres/3/A2286863_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639069612727400000/reb9/lowres/3/A2286863_1.jpg",
-            "LastUpdated": "2026-02-17 9:41:12 PM",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639070435144330000/reb9/highres/0/A2287300_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639070435144330000/reb9/medres/0/A2287300_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639070435144330000/reb9/lowres/0/A2287300_1.jpg",
+            "LastUpdated": "2026-02-18 8:31:54 PM",
             "TypeId": "0"
           }
         ],
         "Parking": [
           {
-            "Name": "Parking Pad"
+            "Name": "Detached Garage",
+            "Spaces": "2"
           }
         ],
         "ParkingSpaceTotal": "2",
         "TypeId": "300",
         "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Playground",
+        "AmmenitiesNearBy": "Playground, Schools, Shopping, Water Nearby",
         "OwnershipTypeGroupIds": [
           1
         ],
-        "ParkingType": "Parking Pad",
-        "PriceUnformattedValue": "635000",
-        "ShortValue": "635K",
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "1299900",
+        "ShortValue": "1.3M",
         "PriceChangeTimeOnRealtor": "",
         "PriceChangeTagDateUTC": "12:00:00 AM"
       },
       "Business": {},
       "Land": {
-        "SizeTotal": "557 m2|4,051 - 7,250 sqft",
-        "SizeFrontage": "16.76 m"
+        "SizeTotal": "6383 sqft|4,051 - 7,250 sqft",
+        "SizeFrontage": "17.68 m",
+        "LandscapeFeatures": "Landscaped"
       },
-      "PostalCode": "T2W1X2",
+      "PostalCode": "T2J2R3",
       "HistoricalDataIsCleared": false,
       "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29370747/128-cantrell-place-sw-calgary-canyon-meadows",
+      "RelativeDetailsURL": "/real-estate/29375787/1024-lake-christina-way-se-calgary-lake-bonavista",
       "StatusId": "1",
-      "PhotoChangeDateUTC": "2026-02-18 2:41:18 AM",
+      "PriceChangeDateUTC": "2026-02-19 1:55:43 AM",
+      "HasPriceUpdate": true,
+      "PhotoChangeDateUTC": "2026-02-19 1:31:56 AM",
       "HasNewImageUpdate": true,
       "Distance": "",
-      "RelativeURLEn": "/real-estate/29370747/128-cantrell-place-sw-calgary-canyon-meadows",
-      "RelativeURLFr": "/immobilier/29370747/128-cantrell-place-sw-calgary",
+      "RelativeURLEn": "/real-estate/29375787/1024-lake-christina-way-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29375787/1024-lake-christina-way-se-calgary",
       "Media": [],
-      "InsertedDateUTC": "639069766267500000",
-      "TimeOnRealtor": "1 hour ago",
+      "InsertedDateUTC": "639070612167000000",
+      "TimeOnRealtor": "2 hours ago",
       "Tags": [
         {
-          "Label": "1 hour ago",
+          "Label": "2 hours ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -308,10 +310,10 @@
       "RelativeURLFr": "/immobilier/29357762/639-canterbury-drive-sw-calgary",
       "Media": [],
       "InsertedDateUTC": "639065853671870000",
-      "TimeOnRealtor": "4 days ago",
+      "TimeOnRealtor": "5 days ago",
       "Tags": [
         {
-          "Label": "4 days ago",
+          "Label": "5 days ago",
           "HTMLColorCode": "#23A1C0",
           "ListingTagTypeID": "1"
         }
@@ -470,7 +472,6 @@
       "StatusId": "1",
       "OpenHouseInsertDateUTC": "2026-02-10 9:05:06 PM",
       "PhotoChangeDateUTC": "2026-02-16 10:02:01 PM",
-      "HasNewImageUpdate": true,
       "Distance": "",
       "RelativeURLEn": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
       "RelativeURLFr": "/immobilier/29332634/1414-shawnee-drive-calgary",
@@ -838,247 +839,6 @@
         }
       ],
       "InsertedDateUTC": "639059165285870000",
-      "TimeOnRealtor": "",
-      "Tags": [],
-      "UploadedBy": 9
-    },
-    {
-      "Id": "29308813",
-      "MlsNumber": "A2282637",
-      "PublicRemarks": "Welcome to this stunning 2-storey split home in the heart of Lake Bonavista, offering over 2,800 sq ft of beautifully finished living space on a prime corner lot with an oversized garage, RV parking, and ample additional parking. Thoughtfully redesigned, this home delivers an exceptional open-concept layout ideal for both everyday living and entertaining.The impressive chef’s kitchen is the centerpiece, featuring a massive granite island, abundant cabinetry and counter space, extensive stonework, and steel appliances. Main-floor laundry, with an additional washer/dryer rough-in, adds convenience and flexibility. A warm and inviting family room with electric fireplace at the front of the home. Additionally, a second living space with another fireplace that opens out the sliding doors to the backyard. The primary retreat is a true sanctuary with a custom walk-in closet with automatic LED lighting, remote-controlled window coverings, and a spa-inspired ensuite highlighted by an infinity-style jetted tub. Two additional bedrooms and a full bathroom complete the upstairs. The fully developed basement offers a spacious recreation and games area, plus a second kitchen/wet bar complete with stove, hood fan, double stainless steel sink, and space for a dishwasher, perfect for entertaining or extended family living.Extensive upgrades include sound deadening triple-pane windows, two high-efficiency furnaces, two central A/C units, newer hot water tank and water softener, upgraded plumbing, electrical panel and wiring, spray foam insulation throughout the home and garage, and 220-volt wiring in the garage. Additional exterior insulation beneath the stucco ensures exceptional energy efficiency.Enjoy outdoor living with a covered patio, greenhouse, and storage shed, all within a beautifully landscaped yard. A separate side entrance offers excellent future suite potential (subject to city approvals). Located close to lake access, schools, parks, golf, shopping, and transit, th is exceptional home delivers the ultimate Lake Bonavista lifestyle. (31591450)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "4",
-        "SizeInterior": "1766 sqft",
-        "StoriesTotal": "2",
-        "Type": "House",
-        "Ammenities": "Party Room, Recreation Centre",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1766 sqft",
-            "AreaUnformatted": "1766 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "1"
-      },
-      "Individual": [
-        {
-          "IndividualID": 1563205,
-          "Name": "Mark Stanley A. Jamias",
-          "Organization": {
-            "OrganizationID": 54692,
-            "Name": "Real Estate Professionals Inc.",
-            "Address": {
-              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "547-4102",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "547-6150",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "Emails": [
-              {
-                "ContactId": "574881245"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "HasEmail": true,
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
-            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "714-3199",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "547-6150",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.markjamias.com/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576492193"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS635999527800000000/lowres/1148643.jpg",
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Mark Stanley",
-          "LastName": "Jamias",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1563205/mark-stanley-jamias-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
-          "AgentPhotoLastUpdated": "2016-05-27 13:33:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS635999527800000000/highres/1148643.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        },
-        {
-          "IndividualID": 1984543,
-          "Name": "Katrina Serquina",
-          "Organization": {
-            "OrganizationID": 54692,
-            "Name": "Real Estate Professionals Inc.",
-            "Address": {
-              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "547-4102",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              },
-              {
-                "PhoneType": "Fax",
-                "PhoneNumber": "547-6150",
-                "AreaCode": "403",
-                "PhoneTypeId": "4"
-              }
-            ],
-            "Emails": [
-              {
-                "ContactId": "574881245"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "HasEmail": true,
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
-            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "616-0679",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            },
-            {
-              "PhoneType": "Fax",
-              "PhoneNumber": "547-6150",
-              "AreaCode": "403",
-              "PhoneTypeId": "4"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576503755"
-            }
-          ],
-          "Photo": "https://cdn.realtor.ca/individual/TS638283829800000000/lowres/1269276.jpg",
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Katrina",
-          "LastName": "Serquina",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/1984543/katrina-serquina-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
-          "AgentPhotoLastUpdated": "2023-08-23 10:23:00",
-          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638283829800000000/highres/1269276.jpg",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$850,000",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "740 Lake Ontario Drive SE|Calgary, Alberta T2J3J8",
-          "Longitude": "-114.042818747",
-          "Latitude": "50.930103051",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639068394926330000/reb9/highres/7/A2282637_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639068394926330000/reb9/medres/7/A2282637_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639068394926330000/reb9/lowres/7/A2282637_1.jpg",
-            "LastUpdated": "2026-02-16 11:51:32 AM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Detached Garage",
-            "Spaces": "2"
-          },
-          {
-            "Name": "Garage"
-          },
-          {
-            "Name": "Heated Garage"
-          }
-        ],
-        "ParkingSpaceTotal": "5",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Detached Garage (2), Garage, Heated Garage",
-        "PriceUnformattedValue": "850000",
-        "ShortValue": "850K",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "888.32 m2|7,251 - 10,889 sqft",
-        "SizeFrontage": "22.96 m",
-        "LandscapeFeatures": "Landscaped"
-      },
-      "PostalCode": "T2J3J8",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista",
-      "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-01-31 6:00:20 AM",
-      "PhotoChangeDateUTC": "2026-02-16 4:51:32 PM",
-      "HasNewImageUpdate": true,
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista",
-      "RelativeURLFr": "/immobilier/29308813/740-lake-ontario-drive-se-calgary",
-      "ListingTimeZone": "Mountain Standard Time",
-      "ListingBoundary": "America/Edmonton",
-      "ListingGMT": "-07:00:00",
-      "Media": [],
-      "InsertedDateUTC": "639054357945900000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
@@ -1883,151 +1643,6 @@
         }
       ],
       "InsertedDateUTC": "639047854622930000",
-      "TimeOnRealtor": "",
-      "Tags": [],
-      "UploadedBy": 9
-    },
-    {
-      "Id": "29282509",
-      "MlsNumber": "A2276467",
-      "PublicRemarks": "LARGE LOT | RENOVATED INSIDE AND OUT | BRIGHT & SPACIOUS | MODERN OPEN CONCEPT | 4 BEDS & 3 FULL BATHS | GYM | WET BAR | NEW AIR CONDTIONER | HEATED ENSUITE FLOOR | STEAM SHOWER | OVERSIZED DETACHED GARAGE.Welcome to your dream home in the sought after community of Lake Bonnavista! Fantastic location situated on a Large lot and walking distance to St.Boniface School and Lake Bonnavista School. This stunning home is completely remodeled with unlimited upgrades and features, with all the city permits and Engineer consultation, to give you the warmth of a home .Bright and spacious main floor with vaulted ceiling features a large front window which gives you plenty of sunlight and features a modern open concept with a living room, a cozy fireplace & a dining room. The brand new , elegant and tastefully designed kitchen is a dream for anybody and includes a large center island, premium quartz countertops, stainless steel appliances, gas range , and a lot of storage space,and above all a security camera screen for your security.  The Oak railing adds more to the beauty of this home. Moving further, you are greeted with a primary bedroom with an attached 5 piece ensuite/w steam shower and walk in closet with lot of storage space for his and her. There is another good-sized room with a pocket door to the 4 Pc common washroom and a stackable laundry on the main floor for added convenience. The lower level has a large family room, a wet bar with fridge and a large gym with rubber floor. 2 additional bedrooms and a full washroom complete this floor. To add to all this, all the rooms in the basement have legal-size windows for added light. All new concrete in the front and back. The list goes on with a new hot water tank, roof shingles, siding, hardwood flooring , carpet, new plumbing,new electrical,etc etc . A must-see home.....Please call your realtor and book your showing. (31558976)",
-      "Building": {
-        "BathroomTotal": "3",
-        "Bedrooms": "2 + 2",
-        "SizeInterior": "1448 sqft",
-        "StoriesTotal": "1",
-        "Type": "House",
-        "FloorAreaMeasurements": [
-          {
-            "Area": "1448 sqft",
-            "AreaUnformatted": "1448 sqft",
-            "Type": "Square Footage",
-            "Source": "",
-            "MeasureUnitId": "1",
-            "TypeId": "1",
-            "SourceId": "0",
-            "SortBy": "1"
-          }
-        ],
-        "HalfBathTotal": "0"
-      },
-      "Individual": [
-        {
-          "IndividualID": 2066694,
-          "Name": "Anil K. Vashisht",
-          "Organization": {
-            "OrganizationID": 54621,
-            "Name": "TREC The Real Estate Company",
-            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638663354400000000/lowres/1088565.jpg",
-            "Address": {
-              "AddressText": "#512 22 Midlake Blvd. SE|CALGARY, Alberta T2X2X7",
-              "PermitShowAddress": true
-            },
-            "Phones": [
-              {
-                "PhoneType": "Telephone",
-                "PhoneNumber": "270-4060",
-                "AreaCode": "403",
-                "PhoneTypeId": "1"
-              }
-            ],
-            "OrganizationType": "Firm",
-            "PermitFreetextEmail": true,
-            "PermitShowListingLink": true,
-            "RelativeDetailsURL": "/office/firm/54621/trec-the-real-estate-company-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
-            "PhotoLastupdate": "2024-11-04 4:44:00 PM"
-          },
-          "Phones": [
-            {
-              "PhoneType": "Telephone",
-              "PhoneNumber": "561-6761",
-              "AreaCode": "403",
-              "PhoneTypeId": "1"
-            }
-          ],
-          "Websites": [
-            {
-              "Website": "http://www.trecl.ca/",
-              "WebsiteTypeId": "1"
-            }
-          ],
-          "Emails": [
-            {
-              "ContactId": "576513078"
-            }
-          ],
-          "Position": "Associate",
-          "PermitFreetextEmail": true,
-          "FirstName": "Anil",
-          "LastName": "Vashisht",
-          "CorporationDisplayTypeId": "0",
-          "PermitShowListingLink": true,
-          "RelativeDetailsURL": "/agent/2066694/anil-vashisht-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
-          "RankMyAgentKey": "",
-          "RealSatisfiedKey": "",
-          "TestimonialTreeKey": ""
-        }
-      ],
-      "Property": {
-        "Price": "$1,319,000",
-        "Type": "Single Family",
-        "Address": {
-          "AddressText": "1024 lake christina Way SE|Calgary, Alberta T2J2R3",
-          "Longitude": "-114.0380423",
-          "Latitude": "50.9421196",
-          "PermitShowAddress": true
-        },
-        "Photo": [
-          {
-            "SequenceId": "1",
-            "HighResPath": "https://cdn.realtor.ca/listings/TS639066948509570000/reb9/highres/7/A2276467_1.jpg",
-            "MedResPath": "https://cdn.realtor.ca/listings/TS639066948509570000/reb9/medres/7/A2276467_1.jpg",
-            "LowResPath": "https://cdn.realtor.ca/listings/TS639066948509570000/reb9/lowres/7/A2276467_1.jpg",
-            "LastUpdated": "2026-02-14 7:40:50 PM",
-            "TypeId": "0"
-          }
-        ],
-        "Parking": [
-          {
-            "Name": "Detached Garage",
-            "Spaces": "2"
-          }
-        ],
-        "ParkingSpaceTotal": "2",
-        "TypeId": "300",
-        "OwnershipType": "Freehold",
-        "AmmenitiesNearBy": "Playground, Schools, Shopping, Water Nearby",
-        "OwnershipTypeGroupIds": [
-          1
-        ],
-        "ParkingType": "Detached Garage (2)",
-        "PriceUnformattedValue": "1319000",
-        "ShortValue": "1.32M",
-        "PriceChangeTimeOnRealtor": "",
-        "PriceChangeTagDateUTC": "12:00:00 AM"
-      },
-      "Business": {},
-      "Land": {
-        "SizeTotal": "6383 sqft|4,051 - 7,250 sqft",
-        "SizeFrontage": "17.68 m",
-        "LandscapeFeatures": "Landscaped"
-      },
-      "PostalCode": "T2J2R3",
-      "HistoricalDataIsCleared": false,
-      "ProvinceName": "Alberta",
-      "RelativeDetailsURL": "/real-estate/29282509/1024-lake-christina-way-se-calgary-lake-bonavista",
-      "StatusId": "1",
-      "OpenHouseInsertDateUTC": "2026-02-15 1:04:37 AM",
-      "PriceChangeDateUTC": "2026-02-03 5:55:52 PM",
-      "PhotoChangeDateUTC": "2026-02-15 12:40:55 AM",
-      "Distance": "",
-      "RelativeURLEn": "/real-estate/29282509/1024-lake-christina-way-se-calgary-lake-bonavista",
-      "RelativeURLFr": "/immobilier/29282509/1024-lake-christina-way-se-calgary",
-      "ListingTimeZone": "Mountain Standard Time",
-      "ListingBoundary": "America/Edmonton",
-      "ListingGMT": "-07:00:00",
-      "Media": [],
-      "InsertedDateUTC": "639047403883930000",
       "TimeOnRealtor": "",
       "Tags": [],
       "UploadedBy": 9
@@ -4574,5 +4189,5 @@
     }
   ],
   "assessments": 5119,
-  "timestamp": "2026-02-18T03-30-30"
+  "timestamp": "2026-02-19T03-30-24"
 }

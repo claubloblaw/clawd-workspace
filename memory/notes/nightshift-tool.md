@@ -1,3 +1,10 @@
+---
+type: note
+description: "Nightshift — daemon that burns unused Claude Max/Codex quota on codebase maintenance overnight. Not yet installed."
+topics: ["[[moc-technical]]"]
+created: 2026-02-16
+---
+
 # Nightshift — Codebase Maintenance via Leftover Claude/Codex Quota
 
 - **Repo:** https://github.com/marcus/nightshift
