@@ -6,3 +6,8 @@
 2026-02-17 | A2278766 | https://www.realtor.ca/real-estate/29255026/260-boulder-creek-crescent-se-langdon-boulder-creek-estates
 2026-02-17 | A2272417 | https://www.realtor.ca/real-estate/29143619/264-boulder-creek-crescent-se-langdon-boulder-creek-estates
 2026-02-18 | A2257762 | https://www.realtor.ca/real-estate/28990442/703-130-avenue-sw-calgary-canyon-meadows
+2026-02-19 | 29007900 | https://www.realtor.ca/real-estate/29007900/321-kinniburgh-cove-chestermere-kinniburgh-north
+2026-02-19 | 29322119 | https://www.realtor.ca/real-estate/29322119/166-bridlecrest-boulevard-sw-calgary-bridlewood
+2026-02-19 | 29325058 | https://www.realtor.ca/real-estate/29325058/172-seagreen-way-chestermere-west-creek
+2026-02-19 | 29211543 | https://www.realtor.ca/real-estate/29211543/4617-stanley-road-sw-calgary-elboya
+2026-02-19 | 29364217 | https://www.realtor.ca/real-estate/29364217/3335-oakwood-drive-sw-calgary-oakridge

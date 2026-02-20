@@ -154,6 +154,24 @@ function parseDaysOnMarket(timeStr) {
   return num; // days
 }
 
+function isExcluded(l) {
+  const addr = (l.Property?.Address?.AddressText || '').toLowerCase();
+  const desc = (l.PublicRemarks || '').toLowerCase();
+  const status = (l.Property?.Type || '').toLowerCase();
+
+  // Exclude sold/pending listings
+  if (/sold|pending|conditional/i.test(status)) return 'sold/pending';
+  if (l.StatusId && l.StatusId !== 1) return 'not active'; // StatusId 1 = active on realtor.ca
+
+  // Exclude non-lakefront Chestermere — only keep if lakefront/lake access mentioned
+  if (/chestermere/i.test(addr)) {
+    const lakefront = /lake\s?(front|view|access)|waterfront|on the lake|lakeside|lake\b.*\bview/i.test(desc);
+    if (!lakefront) return 'chestermere-not-lakefront';
+  }
+
+  return null;
+}
+
 function scoreListing(l, profileKey) {
   const flags = [];
   let score = 0;
@@ -245,7 +263,18 @@ function scoreListing(l, profileKey) {
 }
 
 function formatResults(listings, profileKey, profileName, previousMLS) {
-  const scored = listings.map(l => {
+  // Filter out excluded listings (sold, non-lakefront Chestermere, etc.)
+  const filtered = listings.filter(l => {
+    const reason = isExcluded(l);
+    if (reason) {
+      console.log(`  ❌ Excluded: ${l.Property?.Address?.AddressText || l.MlsNumber} (${reason})`);
+      return false;
+    }
+    return true;
+  });
+  console.log(`  📋 ${listings.length} total → ${filtered.length} after exclusions`);
+
+  const scored = filtered.map(l => {
     const { score, flags } = scoreListing(l, profileKey);
     const isNew = !previousMLS.has(l.MlsNumber);
     return { listing: l, score, flags, isNew };
@@ -293,6 +322,7 @@ function generateAlerts(allScored, previousMLS) {
   const alerts = [];
   for (const [key, scored] of Object.entries(allScored)) {
     for (const s of scored) {
+      if (isExcluded(s.listing)) continue;
       if (s.score >= 50 && s.isNew) {
         const l = s.listing;
         const p = l.Property || {};
