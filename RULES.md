@@ -43,6 +43,14 @@
 - Spawn a sub-agent to attempt the fix, with the failing test as the success criterion.
 - The bug isn't fixed until the test passes. No "I think this should work" — prove it.
 
+### 6. Reference Prompt Guides When Writing Prompts
+- **Before writing any prompt** (system prompts, agent prompts, tool prompts, cron tasks), read the relevant guide in `references/prompt-guides/`.
+- Currently available:
+  - `anthropic-claude.md` — Claude models (Sonnet, Opus, Haiku)
+  - `openai-gpt.md` — GPT models (GPT-4.1, GPT-5) + reasoning models (o3, o4-mini)
+- Apply the appropriate techniques: XML tags for structure, examples for consistency, role prompting for domain tasks, chain prompts for multi-step, etc.
+- This applies to prompts in code (audit scripts, agent configs), not casual conversation.
+
 ## Technical Lessons
 
 ### WordPress / WP-CLI
