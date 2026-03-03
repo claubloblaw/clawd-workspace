@@ -25,6 +25,10 @@ memory/*ai-market*.md
 memory/*qmd*.md
 memory/*wp-migration*.md
 memory/*wp-plugin*.md
+# Recursive protection for market/financial/investment content anywhere in memory/
+memory/**/*market*.md
+memory/**/*financial*.md
+memory/**/*investment*.md
 memory/2026-02-01-browser-setup.md
 memory/2026-02-02-tts-patch.md
 
