@@ -1,5 +1,3341 @@
 {
-  "listings": [],
-  "assessments": 5121,
-  "timestamp": "2026-02-25T03-30-31"
+  "listings": [
+    {
+      "Id": "29407089",
+      "MlsNumber": "A2289350",
+      "PublicRemarks": "Welcome to your forever home, perfectly nestled on a quiet cul-de-sac in the heart of Lake Bonavista—one of Calgary’s most prestigious lake communities. This beautiful 4-level split home offers the ideal blend of space, comfort, and lifestyle, with 5 bedrooms, 4 bathrooms, and a backyard that feels like your own private resort. Step inside and you’ll immediately feel the warmth and charm of this inviting home. The bright, spacious living room is bathed in natural light thanks to new triple-pane windows and automated drapes, creating a cozy yet elegant atmosphere. It flows effortlessly into the dining room—perfect for hosting holidays or Sunday dinners—with a newer patio door that leads you out to the backyard. The kitchen is both functional and flexible, with room for a breakfast nook or extra cabinetry to suit your needs. Upstairs, the primary suite easily fits king-sized furniture and features his and hers closets plus a private ensuite. Two additional bedrooms and a full bathroom complete the upper level. On the lower level, you'll find a warm and welcoming family room with custom built-ins and a brick wood-burning fireplace with gas starter—ideal for cozy nights in. There’s also a fourth bedroom, a full laundry room and convenient walkout access to the backyard. And what a backyard it is! Designed for both relaxation and entertaining, it features a heated inground pool, fire pit, raised garden boxes, and low-maintenance artificial grass—so you can spend less time on upkeep and more time enjoying the outdoors. The fully finished basement adds even more versatility with a fifth bedroom (great for a guest room, home office, or gym), a full bathroom, a large rec room, and more storage space. This home has been lovingly maintained and thoughtfully updated including sump pump & exterior paint touch ups (2025), triple-pane windows throughout, patio door, new soffits and fascia (2021),  water tank, outdoor pool pump & filter (2020) and two new furnaces (2015)  offering  peace of mind for years to come. This exclusive, residents-only lake community offers unmatched year-round amenities—swimming, paddleboarding, kayaking, tennis, and beach volleyball in the summer, and ice skating, tobogganing, snowshoeing, and even ice fishing in the winter. The lake is stocked twice a year, and 52 acres of sparkling water are surrounded by 25 acres of lush green space and mature trees. Enjoy family-friendly events like movies in the park, Stampede BBQs, food truck nights, and seasonal festivals—all just steps from your door.Families will love being close to top-rated schools, including Lake Bonavista School, Andrew Sibbald, St. Boniface, St. Bonaventure, Sam Livingston, Nickle Jr. High and Dr. EP Scarlett High School. With quick access to Macleod Trail, Deerfoot, Stoney Trail, and even weekend getaways to the mountains, this location truly has it all. This is more than just a home- it's a lifestyle and it’s ready for you to move in, add your personal updates and start making memories! (31696439)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3 + 2",
+        "SizeInterior": "1331.63 sqft",
+        "StoriesTotal": "",
+        "Type": "House",
+        "Ammenities": "Clubhouse",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1332 sqft",
+            "AreaUnformatted": "1332 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1830120,
+          "Name": "Kym Barton",
+          "Organization": {
+            "OrganizationID": 150028,
+            "Name": "Sotheby's International Realty Canada",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638558024400000000/lowres/150028.jpg",
+            "Address": {
+              "AddressText": "5111 Elbow Drive SW|CALGARY, Alberta T2V1H2",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "254-5315",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "244-5315",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "558188006"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/150028/sothebys-international-realty-canada-5111-elbow-drive-sw-calgary-alberta-t2v1h2",
+            "PhotoLastupdate": "2024-07-05 6:54:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "369-1185",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "244-5315",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576502085"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636463675800000000/lowres/1195633.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Kym",
+          "LastName": "Barton",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1830120/kym-barton-5111-elbow-drive-sw-calgary-alberta-t2v1h2",
+          "AgentPhotoLastUpdated": "2017-11-15 18:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636463675800000000/highres/1195633.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1771670,
+          "Name": "Barb A. Richardson",
+          "Organization": {
+            "OrganizationID": 150028,
+            "Name": "Sotheby's International Realty Canada",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638558024400000000/lowres/150028.jpg",
+            "Address": {
+              "AddressText": "5111 Elbow Drive SW|CALGARY, Alberta T2V1H2",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "254-5315",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "244-5315",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "558188006"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/150028/sothebys-international-realty-canada-5111-elbow-drive-sw-calgary-alberta-t2v1h2",
+            "PhotoLastupdate": "2024-07-05 6:54:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "613-8737",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "244-5315",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.barbrichardson.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576496022"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636928456800000000/lowres/1186340.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Barb",
+          "LastName": "Richardson",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1771670/barb-richardson-5111-elbow-drive-sw-calgary-alberta-t2v1h2",
+          "AgentPhotoLastUpdated": "2019-05-07 17:08:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636928456800000000/highres/1186340.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$899,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "206 Lake Fraser Place SE|Calgary, Alberta T2J3T5",
+          "Longitude": "-114.0655778",
+          "Latitude": "50.9408512",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639080707890570000/reb9/highres/0/A2289350_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639080707890570000/reb9/medres/0/A2289350_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639080707890570000/reb9/lowres/0/A2289350_1.jpg",
+            "LastUpdated": "2026-03-02 5:53:09 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "6",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2)",
+        "PriceUnformattedValue": "899900",
+        "ShortValue": "900K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "641 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "15.24 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "PostalCode": "T2J3T5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29407089/206-lake-fraser-place-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-03-02 10:53:12 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29407089/206-lake-fraser-place-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29407089/206-lake-fraser-place-se-calgary",
+      "Media": [],
+      "InsertedDateUTC": "639078095348100000",
+      "TimeOnRealtor": "4 days ago",
+      "Tags": [
+        {
+          "Label": "4 days ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29404382",
+      "MlsNumber": "A2287912",
+      "PublicRemarks": "Welcome to this well-maintained 2+3 bedroom walk-out bungalow in the desirable community of Evergreen! Offering the ease of single-level living, this home features a bright and functional open-concept layout with spacious living and dining areas filled with natural light. The kitchen provides ample cabinetry and workspace, ideal for both everyday living and entertaining.The main floor includes two generous bedrooms, including a comfortable primary retreat with a 4 piece fully renovated ensuite & walk-in closet. The fully developed walk-out basement adds valuable additional living space including a Family Room, 3 bedrooms.Enjoy the private yard with patio space for summer evenings, plus the convenience of an attached garage and additional driveway parking. Located close to parks, pathways, schools, shopping, and major commuter routes, this home offers outstanding value in a family-friendly community.A fantastic opportunity for downsizers, first-time buyers, or investors alike — don’t miss it! (31692294)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 3",
+        "SizeInterior": "1703.9 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1704 sqft",
+            "AreaUnformatted": "1704 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1448006,
+          "Name": "Scott A. Watson",
+          "Organization": {
+            "OrganizationID": 152171,
+            "Name": "Coldwell Banker Mountain Central",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638724764400000000/lowres/1184214.jpg",
+            "Address": {
+              "AddressText": "6420 6a ST SE - #101|CALGARY, Alberta T2H2B7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "775-6950",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "451-1667",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574009269"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.coldwellbanker.ca/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/152171/coldwell-banker-mountain-central-6420-6a-st-se-101-calgary-alberta-t2h2b7",
+            "PhotoLastupdate": "2025-01-14 6:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "605-0591",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "451-1667",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.christiesrealestate.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576487796"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1102224.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Scott",
+          "LastName": "Watson",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1448006/scott-watson-6420-6a-st-se-101-calgary-alberta-t2h2b7",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1102224.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$899,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "256 Evergreen Court SW|Calgary, Alberta T2Y2X5",
+          "Longitude": "-114.098541969",
+          "Latitude": "50.928406513",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639077214938400000/reb9/highres/2/A2287912_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639077214938400000/reb9/medres/2/A2287912_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639077214938400000/reb9/lowres/2/A2287912_1.jpg",
+            "LastUpdated": "2026-02-26 4:51:33 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "4",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2)",
+        "PriceUnformattedValue": "899900",
+        "ShortValue": "900K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "5560 sqft|4,051 - 7,250 sqft",
+        "SizeFrontage": "4.63 m"
+      },
+      "PostalCode": "T2Y2X5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29404382/256-evergreen-court-sw-calgary-evergreen",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-02-26 9:51:33 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29404382/256-evergreen-court-sw-calgary-evergreen",
+      "RelativeURLFr": "/immobilier/29404382/256-evergreen-court-sw-calgary",
+      "Media": [],
+      "InsertedDateUTC": "639077394938300000",
+      "TimeOnRealtor": "5 days ago",
+      "Tags": [
+        {
+          "Label": "5 days ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29401172",
+      "MlsNumber": "A2289053",
+      "PublicRemarks": "Stunning redesigned and renovated home from top to bottom. Now with new vaulted ceilings enhancing the bright and open great room spaces. Custom two toned kitchen cabinetry, with 36 inch Dacor gas stove, Samsung 4 door  family hub fridge, large eat up island with waterfall quartz and easy access to south deck and yard. Mudroom also just off kitchen. Main floor has 2 bedrooms, Primary with walk in closet and  4 pc ensuite complete with plug in Japanese style toilet and laundry conveniently just off hallway. Lower level is complete with an additional 2 bedrooms, family room and office. All new windows throughout, new stucco exterior, new plumbing and electrical, new hot water tank , high effeciency furnace and newer shingles. Double front detached garage plus  NEW  rear single detached oversized single garage, both insulated and drywalled with mudding to be completed. Credit for south fence as ground is frozen. Lake access home , close to many schools, shops and parks. Be the first to view. (31690225)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 2",
+        "SizeInterior": "1344 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1344 sqft",
+            "AreaUnformatted": "1344 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1447492,
+          "Name": "Shirley E. Evans",
+          "Organization": {
+            "OrganizationID": 54692,
+            "Name": "Real Estate Professionals Inc.",
+            "Address": {
+              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "547-4102",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "547-6150",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574881245"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "862-3618",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "547-6150",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.housesincalgary.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576518590"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638907377400000000/lowres/1094491.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Shirley",
+          "LastName": "Evans",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1447492/shirley-evans-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+          "AgentPhotoLastUpdated": "2025-08-14 03:09:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638907377400000000/highres/1094491.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1568644,
+          "Name": "Stephanie Evans",
+          "Organization": {
+            "OrganizationID": 54692,
+            "Name": "Real Estate Professionals Inc.",
+            "Address": {
+              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "547-4102",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "547-6150",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574881245"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "620-0285",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "547-6150",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.housesincalgary.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/HousesInCalgary/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://twitter.com/EvansSt",
+              "WebsiteTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576492847"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636897667800000000/lowres/1150248.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Stephanie",
+          "LastName": "Evans",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1568644/stephanie-evans-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+          "AgentPhotoLastUpdated": "2019-04-02 01:53:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636897667800000000/highres/1150248.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,248,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "7 Lake Sundance Place SE|Calgary, Alberta T2J2S9",
+          "Longitude": "-114.036163589",
+          "Latitude": "50.938023166",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639080485799070000/reb9/highres/3/A2289053_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639080485799070000/reb9/medres/3/A2289053_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639080485799070000/reb9/lowres/3/A2289053_1.jpg",
+            "LastUpdated": "2026-03-02 11:42:59 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Detached Garage",
+            "Spaces": "1"
+          }
+        ],
+        "ParkingSpaceTotal": "3",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2), Detached Garage (1)",
+        "PriceUnformattedValue": "1248900",
+        "ShortValue": "1.25M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "OpenHouse": [
+        {
+          "StartTime": "Mar 07/26 - 1:00 PM To 3:30 PM",
+          "StartDateTime": "07/03/2026 1:00:00 PM",
+          "EndDateTime": "07/03/2026 3:30:00 PM",
+          "FormattedDateTime": "Mar 07/26 - 1:00 PM To 3:30 PM",
+          "EventTypeID": "1"
+        }
+      ],
+      "Business": {},
+      "Land": {
+        "SizeTotal": "576 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "15.2 m"
+      },
+      "PostalCode": "T2J2S9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29401172/7-lake-sundance-place-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-03-02 4:51:24 PM",
+      "HasOpenHouseUpdate": true,
+      "PhotoChangeDateUTC": "2026-03-02 4:43:01 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29401172/7-lake-sundance-place-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29401172/7-lake-sundance-place-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639077090493300000",
+      "TimeOnRealtor": "5 days ago",
+      "Tags": [
+        {
+          "Label": "5 days ago",
+          "HTMLColorCode": "#23A1C0",
+          "ListingTagTypeID": "1"
+        }
+      ],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29375787",
+      "MlsNumber": "A2287300",
+      "PublicRemarks": "LARGE LOT | RENOVATED INSIDE AND OUT | BRIGHT & SPACIOUS | MODERN OPEN CONCEPT | 4 BEDS & 3 FULL BATHS | GYM | WET BAR | NEW AIR CONDTIONER | HEATED ENSUITE FLOOR | STEAM SHOWER | OVERSIZED DETACHED GARAGE.Welcome to your dream home in the sought after community of Lake Bonnavista! Fantastic location situated on a Large lot and walking distance to St.Boniface School and Lake Bonnavista School. This stunning home is completely remodeled with unlimited upgrades and features, with all the city permits and Engineer consultation, to give you the warmth of a home .Bright and spacious main floor with vaulted ceiling features a large front window which gives you plenty of sunlight and features a modern open concept with a living room, a cozy fireplace & a dining room. The brand new , elegant and tastefully designed kitchen is a dream for anybody and includes a large center island, premium quartz countertops, stainless steel appliances, gas range , and a lot of storage space,and above all a security camera screen for your security.  The Oak railing adds more to the beauty of this home. Moving further, you are greeted with a primary bedroom with an attached 5 piece ensuite/w steam shower and walk in closet with lot of storage space for his and her. There is another good-sized room with a pocket door to the 4 Pc common washroom and a stackable laundry on the main floor for added convenience. The lower level has a large family room, a wet bar with fridge and a large gym with rubber floor. 2 additional bedrooms and a full washroom complete this floor. To add to all this, all the rooms in the basement have legal-size windows for added light. All new concrete in the front and back. The list goes on with a new hot water tank, roof shingles, siding, hardwood flooring , carpet, new plumbing,new electrical,etc etc . A must-see home.....Please call your realtor and book your showing. (31663087)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 2",
+        "SizeInterior": "1448 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1448 sqft",
+            "AreaUnformatted": "1448 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2066694,
+          "Name": "Anil K. Vashisht",
+          "Organization": {
+            "OrganizationID": 54621,
+            "Name": "TREC The Real Estate Company",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638663354400000000/lowres/1088565.jpg",
+            "Address": {
+              "AddressText": "#512 22 Midlake Blvd. SE|CALGARY, Alberta T2X2X7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "270-4060",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54621/trec-the-real-estate-company-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
+            "PhotoLastupdate": "2024-11-04 4:44:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "561-6761",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.trecl.ca/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576513078"
+            }
+          ],
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Anil",
+          "LastName": "Vashisht",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2066694/anil-vashisht-512-22-midlake-blvd-se-calgary-alberta-t2x2x7",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,299,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "1024 lake christina Way SE|Calgary, Alberta T2J2R3",
+          "Longitude": "-114.0380423",
+          "Latitude": "50.9421196",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639079302264700000/reb9/highres/0/A2287300_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639079302264700000/reb9/medres/0/A2287300_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639079302264700000/reb9/lowres/0/A2287300_1.jpg",
+            "LastUpdated": "2026-03-01 2:50:26 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Playground, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "1299900",
+        "ShortValue": "1.3M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "6383 sqft|4,051 - 7,250 sqft",
+        "SizeFrontage": "17.68 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "PostalCode": "T2J2R3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29375787/1024-lake-christina-way-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-03-01 1:21:31 PM",
+      "PriceChangeDateUTC": "2026-02-19 1:55:43 AM",
+      "PhotoChangeDateUTC": "2026-03-01 7:50:32 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29375787/1024-lake-christina-way-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29375787/1024-lake-christina-way-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639070612167000000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29357762",
+      "MlsNumber": "A2285699",
+      "PublicRemarks": "Welcome to this beautifully renovated bungalow in the established community of Canyon Meadows, offering a bright open-concept layout and modern upgrades throughout. The main level features a spacious living area that is highlighted by stunning vaulted ceiling, skylights that flood the space with natural light and a cozy fireplace. The space seamlessly connects to a dinning room , kitchen and back entrance. The refreshed kitchen showcases contemporary cabinetry, newer appliances, updated finishes, and a functional design ideal for everyday living. Three well-sized bedrooms and a renovated bathroom complete the main floor.The fully finished basement expands the living space with a large family room, an additional bedroom with walk-in closet, a full bathroom, dedicated laundry area, and ample storage — perfect for guests, teens, or additional living space. Recent improvements enhance comfort and efficiency, including Lux windows, upgraded insulation, updated mechanical components, new flooring throughout and much more.  Situated on a large corner lot with mature trees, the added bonus of RV pull-through parking, and a double detached garage.Ideally located just minutes from Canyon Meadows LRT, Fish Creek Provincial Park, schools, shopping, and recreation, this sought-after southwest Calgary community offers tree-lined streets, strong community spirit, and convenient access to major routes and everyday amenities. (31643461)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "3 + 1",
+        "SizeInterior": "1361 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1361 sqft",
+            "AreaUnformatted": "1361 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1933940,
+          "Name": "Amanda Levesque",
+          "Organization": {
+            "OrganizationID": 54464,
+            "Name": "CIR Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638967555000000000/lowres/1005095.jpg",
+            "Address": {
+              "AddressText": "130, 703 - 64 AVENUE SE|CALGARY, Alberta T2H2C3",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "271-0600",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "271-5909",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "576574860"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54464/cir-realty-130-703-64-avenue-se-calgary-alberta-t2h2c3",
+            "PhotoLastupdate": "2025-10-22 6:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "554-5405",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "271-5909",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.yourhomeyyc.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/abcalgaryrealestate/",
+              "WebsiteTypeId": "2"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576500435"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636573325800000000/lowres/1233801.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Amanda",
+          "LastName": "Levesque",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1933940/amanda-levesque-130-703-64-avenue-se-calgary-alberta-t2h2c3",
+          "AgentPhotoLastUpdated": "2018-03-22 16:23:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636573325800000000/highres/1233801.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$699,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "639 Canterbury Drive SW|Calgary, Alberta T2W1J4",
+          "Longitude": "-114.075971988",
+          "Latitude": "50.941622007",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639078349265230000/reb9/highres/9/A2285699_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639078349265230000/reb9/medres/9/A2285699_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639078349265230000/reb9/lowres/9/A2285699_1.jpg",
+            "LastUpdated": "2026-02-28 12:22:06 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "4",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Golf Course, Park, Playground, Recreation Nearby, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "699000",
+        "ShortValue": "699K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "726 m2|7,251 - 10,889 sqft",
+        "SizeFrontage": "11 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "PostalCode": "T2W1J4",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29357762/639-canterbury-drive-sw-calgary-canyon-meadows",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-21 3:51:36 AM",
+      "PhotoChangeDateUTC": "2026-02-28 5:22:08 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29357762/639-canterbury-drive-sw-calgary-canyon-meadows",
+      "RelativeURLFr": "/immobilier/29357762/639-canterbury-drive-sw-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639065853671870000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29332634",
+      "MlsNumber": "A2284108",
+      "PublicRemarks": "Luxury, modern, and timeless fully renovated bungalow on a beautifully landscaped corner lot just one minute from Fish Creek Park!This serene and stylish 4-bedroom, 3-bathroom home offers 3,170 sq. ft. of developed living space and has been completely remodeled and fully finished with trendy finishes and thoughtful upgrades throughout. Poly-B plumbing removed, popcorn ceilings eliminated, vaulted ceilings, and all-new windows provide peace of mind and contemporary comfort.You’re welcomed by mature trees, lush gardens, and a paved walkway beside a brand-new fence leading to the covered front porch. Inside, durable tile flooring, fresh paint, updated floors, and an open, bright layout create an inviting first impression. The foyer flows into a cozy front den or formal living room with rich hardwood flooring, while soaring ceilings elevate the spacious formal dining area—perfect for large gatherings.The show-stopping kitchen features abundant modern cabinetry, quartz countertops and backsplash, stainless steel appliances, water filtration and softener, and a large eat-up island overlooking the family room. Relax by the gas fireplace framed by a contemporary feature wall and custom built-ins.The primary retreat offers direct access to the deck and backyard, along with a spa-inspired 5-piece ensuite showcasing a deep soaker tub, oversized walk-in shower, expansive vanity, private water closet, and generous walk-in closet. A bright second bedroom, modern 4-piece bathroom, and functional laundry/mud room with cabinetry and counter space complete the main level.Downstairs, enjoy a massive recreation room, two additional large bedrooms, a 3-piece bathroom, and a versatile office with sink and built-in cabinetry—ideal for working from home or creative space.Step outside to a stunning two-tier rebuilt deck, fully fenced and landscaped yard, relaxing gazebo, and hot tub—perfect for entertaining or unwinding. The front of the home features an extra-large driveway, RV  parking potential, and an insulated double attached garage.Additional highlights include central air conditioning, high-efficiency furnace, new lighting, and upgraded flooring throughout.An exceptional home in an unbeatable location—this is a must-see. Book your private showing today! (31616742)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 2",
+        "SizeInterior": "1765.7 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1766 sqft",
+            "AreaUnformatted": "1766 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2167184,
+          "Name": "Natalia Cennon",
+          "Organization": {
+            "OrganizationID": 62642,
+            "Name": "Comox Realty",
+            "Address": {
+              "AddressText": "203, 5718 1A Street SW|CALGARY, Alberta T2H0E8",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "456-3688",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "273-9792",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/62642/comox-realty-203-5718-1a-street-sw-calgary-alberta-t2h0e8",
+            "PhotoLastupdate": "2025-09-25 12:15:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "333-3168",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "273-9792",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://natalia.cennon.realtor.yyc/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577610506"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638424000000000000/lowres/1417914.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Natalia",
+          "LastName": "Cennon",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2167184/natalia-cennon-203-5718-1a-street-sw-calgary-alberta-t2h0e8",
+          "AgentPhotoLastUpdated": "2024-02-01 16:00:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638424000000000000/highres/1417914.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,150,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "1414 Shawnee Drive|Calgary, Alberta T2Y2V1",
+          "Longitude": "-114.0945173",
+          "Latitude": "50.9299514",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639078835555200000/reb9/highres/8/A2284108_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639078835555200000/reb9/medres/8/A2284108_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639078835555200000/reb9/lowres/8/A2284108_1.jpg",
+            "LastUpdated": "2026-02-28 1:52:35 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "RV"
+          }
+        ],
+        "ParkingSpaceTotal": "5",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2), RV",
+        "PriceUnformattedValue": "1150000",
+        "ShortValue": "1.15M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "526.85 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "17.89 m",
+        "LandscapeFeatures": "Garden Area, Landscaped, Lawn"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/oy6nk_1414_shawnee_dr_sw_calgary_ab/"
+      },
+      "PostalCode": "T2Y2V1",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-10 9:05:06 PM",
+      "PhotoChangeDateUTC": "2026-02-28 6:52:36 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29332634/1414-shawnee-drive-calgary-shawnee-slopes",
+      "RelativeURLFr": "/immobilier/29332634/1414-shawnee-drive-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/oy6nk_1414_shawnee_dr_sw_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/oy6nk_1414_shawnee_dr_sw_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/oy6nk_1414_shawnee_dr_sw_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639059878963200000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29331629",
+      "MlsNumber": "A2284233",
+      "PublicRemarks": "Welcome to an exclusive bungalow nestled in the prestigious community of Lake Bonavista. Boasting over 3400 SQ FT of living space and a front AND back double garage, this luxurious residence is within walking distance to the lake, local schools, shopping and Fish Creek Park nearby. As you enter, soaring vaulted ceilings greet you and run through the living room with gorgeous fireplace to the contemporary loft space. The custom kitchen boasts real wood cabinetry, dovetail drawers, premium quartz counters, a massive island and is flanked by a flex space and a butler pantry. A glass-enclosed wine feature and dinette cabinetry sit just off the dining room which opens out to a bbq area and backyard. The main bathroom exudes elegance, with a custom dual vanity, in-floor heated marble tile, and sits perfectly beside two bedrooms that boast a unique loft space that could be developed to multiple future uses. The primary suite offers a spacious layout, a large walk-in closet, and a luxurious ensuite with a freestanding soaker tub, marble tile, custom double vanity, and a dual shower framed by an exotic backlit illuminated quartz. The basement is an entertainer’s dream with a living room, wet bar, bathroom with walk-in shower, flex room, and two additional bedrooms. The front and backyards await your touch and are ready to take advantage of the supplied personalized landscaping package. Meticulously renovated down to the studs, this home features upgraded insulation, new electrical and plumbing, smart switches, engineered hardwood, and all new doors, trim, and paint. No expense has been spared in creating this luxurious masterpiece, don't miss your chance to make it yours! (31615862)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "3 + 2",
+        "SizeInterior": "2202 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "2202 sqft",
+            "AreaUnformatted": "2202 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2193844,
+          "Name": "Kennedy R.G Heine",
+          "Organization": {
+            "OrganizationID": 54692,
+            "Name": "Real Estate Professionals Inc.",
+            "Address": {
+              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "547-4102",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "547-6150",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574881245"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "618-5839",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "547-6150",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576533880"
+            }
+          ],
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Kennedy",
+          "LastName": "Heine",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2193844/kennedy-heine-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,495,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "13016 Lake Twintree Road SE|Calgary, Alberta t2j2x3",
+          "Longitude": "-114.038564807",
+          "Latitude": "50.935869095",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639065388726500000/reb9/highres/3/A2284233_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639065388726500000/reb9/medres/3/A2284233_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639065388726500000/reb9/lowres/3/A2284233_1.jpg",
+            "LastUpdated": "2026-02-13 12:21:12 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Attached Garage",
+            "Spaces": "1"
+          }
+        ],
+        "ParkingSpaceTotal": "4",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Playground, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2), Attached Garage (1)",
+        "PriceUnformattedValue": "1495000",
+        "ShortValue": "1.5M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "557 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "18.29 m"
+      },
+      "PostalCode": "t2j2x3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29331629/13016-lake-twintree-road-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-13 5:36:11 AM",
+      "PhotoChangeDateUTC": "2026-02-13 5:21:23 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29331629/13016-lake-twintree-road-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29331629/13016-lake-twintree-road-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639059380906800000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29329564",
+      "MlsNumber": "A2283947",
+      "PublicRemarks": "OPEN HOUSES on Sat Feb 21st from 11 AM - 3 PM AND Sunday Feb 22nd from 11 AM - 4 PM! Welcome to your new, perfectly located home! These homes on the ridge don't come onto the market often so this is your chance to get into a home that is in one of the best locations in the estate area of Evergreen! Unmatched views, luxury, privacy, peace and quiet and a custom built home await you with an abundance of nature right outside your back yard! This home was carefully custom built by a European master craftsman and is offered for sale by the original owner. As you enter, you are greeted by soaring ceilings, generous sized entryway with a den/flex room at the front of the house and a dining room with a built in china cabinet on the other side of the entryway. As we make our way through the entry you have a formal dining room (could double as a den with glass doors for privacy) through to the main living areas you have a gorgeous living room with a fireplace, custom built ins and THREE skylights! The kitchen offers the best views to the west of the yard and Fish Creek, ample counter and cabinet space, gas cooktop, wall oven, corner pantry and tiled backsplash! The main floor is completed with a half bath, mud room with laundry and a sink and access to the MASSIVE double garage that can easily accommodate 3-4 vehicles (and it has heated flooring and a drain!) Let's make our way up the elegant curved staircase to the Primary suite that has a walk in closet, a double sided fireplace, dual sinks in the vanity, separate shower and tub with the most amazing views! (You will fall in love!) In addition to the primary bedroom there are THREE more bedrooms and two of them have ensuite bathrooms and there is also a full bathroom upstairs! The huge basement is awaiting your creative ideas and has plenty of room for future development! Other amazing features are the hail resistant upgraded shingles, the 1 year old massive deck, low maintenance yard (no grass), gas firepit in the back yar d, custom woodwork throughout this home, heated floors in the basement and garage, 2 furnaces and 2 hot water tanks, Fish Creek and Mountain views and gleaming hardwood flooring on the main floor! You are also just minutes away from Stoney Trail, tons of the areas amenities, parks, playgrounds and schools! This home offers the perfect blend of luxury custom built finishes, functional upgrades and an unbeatable location! Whether you enjoying a quiet morning coffee with park views, hosting a summer BBQ by the firepit or warming up by one of the fireplaces - this property is thoughtfully designed for comfort, style and a wonderful home to raise your family in! (31613511)",
+      "Building": {
+        "BathroomTotal": "5",
+        "Bedrooms": "4",
+        "SizeInterior": "2970.7 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "2971 sqft",
+            "AreaUnformatted": "2971 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "3"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1447127,
+          "Name": "Shawn Riley",
+          "Organization": {
+            "OrganizationID": 291033,
+            "Name": "Real Broker",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638798091000000000/lowres/1393265.jpg",
+            "Address": {
+              "AddressText": "#700, 1816 CROWCHILD TRAIL NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "623-6900",
+                "AreaCode": "855",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574716474"
+              }
+            ],
+            "Websites": [
+              {
+                "Website": "http://www.joinreal.com/",
+                "WebsiteTypeId": "1"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/291033/real-broker-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2025-04-09 3:25:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "630-1223",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576517751"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638975028600000000/lowres/1015777.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Shawn",
+          "LastName": "Riley",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1447127/shawn-riley-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "AgentPhotoLastUpdated": "2025-10-31 10:21:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638975028600000000/highres/1015777.jpg",
+          "RankMyAgentKey": "22204",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,290,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "1600 Evergreen Hill SW|Calgary, Alberta T2Y3A9",
+          "Longitude": "-114.099695666",
+          "Latitude": "50.930996988",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639075690475870000/reb9/highres/7/A2283947_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639075690475870000/reb9/medres/7/A2283947_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639075690475870000/reb9/lowres/7/A2283947_1.jpg",
+            "LastUpdated": "2026-02-24 10:30:47 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Garage"
+          },
+          {
+            "Name": "Heated Garage"
+          },
+          {
+            "Name": "Oversize"
+          }
+        ],
+        "ParkingSpaceTotal": "8",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2), Garage, Heated Garage, Oversize",
+        "PriceUnformattedValue": "1290000",
+        "ShortValue": "1.29M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "672 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "5.53 m"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/1600_evergreen_hill_sw_calgary_ab/"
+      },
+      "PostalCode": "T2Y3A9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29329564/1600-evergreen-hill-sw-calgary-evergreen",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-19 8:51:38 PM",
+      "PhotoChangeDateUTC": "2026-02-25 3:30:52 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29329564/1600-evergreen-hill-sw-calgary-evergreen",
+      "RelativeURLFr": "/immobilier/29329564/1600-evergreen-hill-sw-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/1600_evergreen_hill_sw_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/1600_evergreen_hill_sw_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/1600_evergreen_hill_sw_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639059165285870000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29308813",
+      "MlsNumber": "A2282637",
+      "PublicRemarks": "** OPEN HOUSE SATURDAY FEB 21 & SUNDAY FEB 22, 12-4PM ** Welcome to this stunning 2-storey split home in the heart of Lake Bonavista, offering over 2,800 sq ft of beautifully finished living space on a prime corner lot with an oversized garage, RV parking, and ample additional parking. Thoughtfully redesigned, this home delivers an exceptional open-concept layout ideal for both everyday living and entertaining.The impressive chef’s kitchen is the centerpiece, featuring a massive granite island, abundant cabinetry and counter space, extensive stonework, and steel appliances. Main-floor laundry, with an additional washer/dryer rough-in, adds convenience and flexibility. A warm and inviting family room with electric fireplace at the front of the home. Additionally, a second living space with another fireplace that opens out the sliding doors to the backyard. The primary retreat is a true sanctuary with a custom walk-in closet with automatic LED lighting, remote-controlled window coverings, and a spa-inspired ensuite highlighted by an infinity-style jetted tub. Two additional bedrooms and a full bathroom complete the upstairs. The fully developed basement offers a spacious recreation and games area, plus a second kitchen/wet bar complete with stove, hood fan, double stainless steel sink, and space for a dishwasher, perfect for entertaining or extended family living.Extensive upgrades include sound deadening triple-pane windows, two high-efficiency furnaces, two central A/C units, newer hot water tank and water softener, upgraded plumbing, electrical panel and wiring, spray foam insulation throughout the home and garage, and 220-volt wiring in the garage. Additional exterior insulation beneath the stucco ensures exceptional energy efficiency.Enjoy outdoor living with a covered patio, greenhouse, and storage shed, all within a beautifully landscaped yard. A separate side entrance offers excellent future suite potential (subject to city approvals). Located close to lak e access, schools, parks, golf, shopping, and transit, this exceptional home delivers the ultimate Lake Bonavista lifestyle. (31591450)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "4",
+        "SizeInterior": "1766 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "Ammenities": "Party Room, Recreation Centre",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1766 sqft",
+            "AreaUnformatted": "1766 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1563205,
+          "Name": "Mark Stanley A. Jamias",
+          "Organization": {
+            "OrganizationID": 54692,
+            "Name": "Real Estate Professionals Inc.",
+            "Address": {
+              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "547-4102",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "547-6150",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574881245"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "714-3199",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "547-6150",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.markjamias.com/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576492193"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS635999527800000000/lowres/1148643.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Mark Stanley",
+          "LastName": "Jamias",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1563205/mark-stanley-jamias-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+          "AgentPhotoLastUpdated": "2016-05-27 13:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS635999527800000000/highres/1148643.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 1984543,
+          "Name": "Katrina Serquina",
+          "Organization": {
+            "OrganizationID": 54692,
+            "Name": "Real Estate Professionals Inc.",
+            "Address": {
+              "AddressText": "202, 5403 CROWCHILD TRAIL N.W.|CALGARY, Alberta T3B4Z1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "547-4102",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "547-6150",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "574881245"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54692/real-estate-professionals-inc-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+            "PhotoLastupdate": "2025-05-28 3:45:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "616-0679",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "547-6150",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576503755"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638283829800000000/lowres/1269276.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Katrina",
+          "LastName": "Serquina",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1984543/katrina-serquina-202-5403-crowchild-trail-nw-calgary-alberta-t3b4z1",
+          "AgentPhotoLastUpdated": "2023-08-23 10:23:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638283829800000000/highres/1269276.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$850,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "740 Lake Ontario Drive SE|Calgary, Alberta T2J3J8",
+          "Longitude": "-114.042818747",
+          "Latitude": "50.930103051",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639075780421270000/reb9/highres/7/A2282637_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639075780421270000/reb9/medres/7/A2282637_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639075780421270000/reb9/lowres/7/A2282637_1.jpg",
+            "LastUpdated": "2026-02-25 1:00:42 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Garage"
+          },
+          {
+            "Name": "Heated Garage"
+          }
+        ],
+        "ParkingSpaceTotal": "5",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2), Garage, Heated Garage",
+        "PriceUnformattedValue": "850000",
+        "ShortValue": "850K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "888.32 m2|7,251 - 10,889 sqft",
+        "SizeFrontage": "22.96 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "PostalCode": "T2J3J8",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-21 12:21:28 AM",
+      "PhotoChangeDateUTC": "2026-02-25 6:00:42 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29308813/740-lake-ontario-drive-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29308813/740-lake-ontario-drive-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639054357945900000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29305864",
+      "MlsNumber": "A2280886",
+      "PublicRemarks": "Welcome to 632 Cantrell Drive SW — a fantastic opportunity in the highly desirable southwest community of Canyon Meadows. This fully renovated home sits on a massive 48x154 ft private lot which allows you to create exceptional outdoor living. The main floor features a bright and inviting living area highlighted by large windows and spacious west facing deck — perfect for relaxing evenings and watching the sunset. The beautifully designed kitchen flows seamlessly creating an open and functional layout ideal for everyday living and entertaining. Two generously sized bedrooms, laundry and a full bathroom complete the main level.Downstairs, the fully developed basement offers a renovated and LEGAL SECONDARY SUITE with its own separate side entrance — an excellent option for extended family, guests, or rental income. This level includes a spacious family/living area, kitchen, two  bedrooms, convenient laundry, and a 3-piece bathroom.Located in one of Calgary’s most established and sought-after southwest neighbourhoods, this versatile property offers outstanding value for homeowners and investors alike. Offering both space and just minutes from shopping, schools, parks, the Canyon Meadows golf course and public transit.Don’t miss your chance to own this one-of-a-kind home — book your private showing today! (31586750)",
+      "Building": {
+        "BathroomTotal": "2",
+        "Bedrooms": "2 + 2",
+        "SizeInterior": "1062.25 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1062 sqft",
+            "AreaUnformatted": "1062 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1665749,
+          "Name": "Sam Patel",
+          "Organization": {
+            "OrganizationID": 275497,
+            "Name": "eXp Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638599226400000000/lowres/1265827.jpg",
+            "Address": {
+              "AddressText": "700 - 1816 Crowchild Trail NW|CALGARY, Alberta T2M3Y7",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "262-7653",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "648-2765",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "563452819"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/275497/exp-realty-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+            "PhotoLastupdate": "2024-08-22 11:24:00 AM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "830-0331",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "648-2765",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.sampatel.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/SamPatelYYC/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/sam-patel-9404b71",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.instagram.com/sampatelyyc?igsh=Y2o5ZG13aGx1dGRx",
+              "WebsiteTypeId": "5"
+            },
+            {
+              "Website": "https://www.youtube.com/@sampatelyyc",
+              "WebsiteTypeId": "7"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576494961"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS0/lowres/1169046.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Sam",
+          "LastName": "Patel",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1665749/sam-patel-700-1816-crowchild-trail-nw-calgary-alberta-t2m3y7",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS0/highres/1169046.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$729,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "632 Cantrell Drive SW|Calgary, Alberta T2W1W7",
+          "Longitude": "-114.0712099",
+          "Latitude": "50.9417139",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639062389283300000/reb9/highres/6/A2280886_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639062389283300000/reb9/medres/6/A2280886_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639062389283300000/reb9/lowres/6/A2280886_1.jpg",
+            "LastUpdated": "2026-02-09 1:02:08 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Parking Pad"
+          },
+          {
+            "Name": "RV"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Golf Course, Park, Playground, Recreation Nearby, Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Parking Pad, RV",
+        "PriceUnformattedValue": "729900",
+        "ShortValue": "730K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "690 m2|7,251 - 10,889 sqft",
+        "SizeFrontage": "14.63 m"
+      },
+      "PostalCode": "T2W1W7",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29305864/632-cantrell-drive-sw-calgary-canyon-meadows",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-01-30 5:05:37 PM",
+      "PhotoChangeDateUTC": "2026-02-09 6:02:10 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29305864/632-cantrell-drive-sw-calgary-canyon-meadows",
+      "RelativeURLFr": "/immobilier/29305864/632-cantrell-drive-sw-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639053891610800000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29302077",
+      "MlsNumber": "A2281677",
+      "PublicRemarks": "Welcome to 250 Lake Fraser Place. Situated on a quiet cul-de-sac in the heart of Lake Bonavista, this FULLY RENOVATED home delivers unparalleled value. There are 6 COMPELLING REASONS to choose this property as your next home. ||    || THE QUALITY OF THE STREET: In the last 10 years, only 4 homes have sold on this street. With only 15 homes, this street is perfect to raise your family. Watch your children play out front worry free - there is almost no traffic here. ||    ||  THE RENOVATIONS: When renovated, this home was taken to the studs. Plumbing, electrical, insulation & mechanical were replaced. The kitchen was expanded - you will see that this is truly an entertainer’s main floor. Massive central island, loads of cabinet space, 2 ovens & premium appliances. Incredible comfort with heated tile flooring & AC. The primary bedroom has a 5pc ensuite (jetted tub + steam shower) + a large walk-in closet. These owners have consistently maintained & updated their home as needed. Other recent updates include: Attic insulation top up (R60), new kitchen backsplash, under-mount kitchen lighting, new fans and light fixtures in all bathrooms, primary closet refresh, Hunter Douglas blinds in the living room, new paint & more.  ||   ||  THE FLOOR PLAN: This was originally a 4 bedroom up plan that was converted to 3. This allows for a larger ensuite & primary closet which is hard to find in Lake Bonavista. Upper laundry was also added which is convenient for families. The main floor has the best of both worlds. Open, bright & inviting, & a quiet flex room on the opposite side that can be used as an office/family room. The basement has a huge, 4th bedroom. Ideal for a nanny or teenager. Full bath, flex spaces & storage area complete the basement. ||    ||  THE BACKYARD: Large, south facing & low maintenance yard that walks out from the kitchen. Huge, high quality composite deck, low maintenance artificial turf, & oversized 26x24 garage with dedicated electrical panel.  You’ll be hard pressed to find a better yard. Beautiful “Spring in snow” tree in the back corner blooms fragrant & white, & a Manitoba maple that provides amazing shade.  ||  ||  Family friendly street & neighbours: The current owners say: “The best neighbours! We shovel each other’s walks, watch each other’s houses, dog get togethers in the front, block parties, overall a safe & friendly” ||   || THE COMMUNITY: Lake Bonavista is one of Calgary’s most sought after communities, offering unmatched amenities & perks. Enjoy access to Lake Bonavista, Calgary's premier community lake. This home is also a short 10 min. walk to Fish Creek Park. Hike, bike & enjoy a picnic - over 80 km of pathways. With excellent schools, shopping, & recreation nearby, this location has it all. Footsteps to Canyon Meadows C-Train station & Avenida Shops. Don’t miss out on this rare opportunity to own a stunning, move-in-ready home in the heart of Lake Bonavista. CALL TODAY FOR YOUR PRIVATE SHOWING. (31583754)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3 + 1",
+        "SizeInterior": "1867 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1867 sqft",
+            "AreaUnformatted": "1867 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1845103,
+          "Name": "Jamie Newton",
+          "Organization": {
+            "OrganizationID": 54575,
+            "Name": "RE/MAX First",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400584400000000/lowres/1005258.jpg",
+            "Address": {
+              "AddressText": "115, 8820 BLACKFOOT TRAIL S.E.|CALGARY, Alberta T2J3J1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "278-2900",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "255-8606",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54575/remax-first-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "837-9300",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "255-8606",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.jamienewton.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/jamienewtonassociates/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/jamie-newton-3992458",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.instagram.com/jamienewton.ca/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576496647"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637650729000000000/lowres/1198259.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Jamie",
+          "LastName": "Newton",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1845103/jamie-newton-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+          "AgentPhotoLastUpdated": "2021-08-20 16:15:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637650729000000000/highres/1198259.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,195,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "250 Lake Fraser Place SE|Calgary, Alberta T2H2L5",
+          "Longitude": "-114.065263529",
+          "Latitude": "50.94028018",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639079782569170000/reb9/highres/7/A2281677_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639079782569170000/reb9/medres/7/A2281677_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639079782569170000/reb9/lowres/7/A2281677_1.jpg",
+            "LastUpdated": "2026-03-01 4:10:56 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Oversize"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2), Oversize",
+        "PriceUnformattedValue": "1195000",
+        "ShortValue": "1.2M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "586 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "19.75 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/250_lake_fraser_pl_se_calgary_ab/"
+      },
+      "PostalCode": "T2H2L5",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29302077/250-lake-fraser-place-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-12 8:56:16 PM",
+      "PhotoChangeDateUTC": "2026-03-01 9:11:00 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29302077/250-lake-fraser-place-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29302077/250-lake-fraser-place-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/250_lake_fraser_pl_se_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 2,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/250_lake_fraser_pl_se_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/250_lake_fraser_pl_se_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639053055551670000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29290926",
+      "MlsNumber": "A2280386",
+      "PublicRemarks": "A thoughtfully, well-designed two-storey home with numerous improvements and upgrades is now available in the very desirable SE community of Bonavista Downs. This is a unique home in that it features two garages. The first is a front-facing, single (21’x12’), attached, insulated and heated garage with upgraded wiring, and finished interior which includes shelving. The front rubber-paved driveway offers additional parking. The second is an oversized double (25’ x 28’), heated, detached garage accessed from the paved alley, and has a finished interior which includes shelving, cabinets, and a workbench and is wired for 220 volts. Three bedrooms, 3.5 baths and 2,250 sq. ft. of living space on three levels. Upon entering the tiled foyer, the natural light flowing in from the upgraded triple pane windows on all sides is remarkable.  Motorized window blinds allow you to control the light factor. The main floor is comprised of living room, dining room and kitchen and has warm hard wood floors throughout. To the left is the living room with woodburning, stone surround fireplace and enough space to experiment with various furniture configurations. The rear deck is accessed via French doors in the living room. To the right of the foyer is the dining room with ample room for entertainment and is adjacent to the kitchen. Cream cabinetry and plenty of it in the kitchen is a beautiful contrast to the dark granite countertops and tiled backsplash. Gleaming stainless appliances and a pantry add to the efficiency. A 2-pc. bath completes the main level. Moving upstairs, there is a combination of hardwood and laminate flooring. The primary bedroom is large and sunny with the benefit of a newly added walk-through closet and 4-pc. ensuite (double vanity). Two additional bedrooms, both with generous-sized closets, share a 4-pc. bath. The basement has been attractively finished and features a large, carpeted rec room with a second woodburning fireplace (both fireplaces passed WETT inspecti on in 2023). Across from the rec room is a tiled home office and tucked back of that is the laundry room with upgraded plumbing, venting and wiring; storage area and an upgraded 3-pc. bath. The house, attached garage and detached garage all have well-insulated (R40) attics. In 2023 the furnace was upgraded to a high-efficiency model with smart thermostat, a tankless water heater was installed and the humidifier was replaced. Both front and back yards are landscaped with lawn and mature trees. The back yard is fenced and has sprinklers installed. A bonus is your own hot tub. Well situated and close to Stoney, Deerfoot and Macleod Trails and Anderson Road. Proximity to shops and restaurants on both Macleod Trail and 130th Avenue; the Bow River; numerous schools (public and Catholic); churches; playgrounds; dog parks; Fish Creek Provincial Park and South Health Campus. This home has obviously been well tended as evidenced by the many upgrades and enhancements. Don't miss out on this outstanding opportunity. (31571312)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3",
+        "SizeInterior": "1570 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1570 sqft",
+            "AreaUnformatted": "1570 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1987050,
+          "Name": "Sergey Korostensky",
+          "Organization": {
+            "OrganizationID": 62642,
+            "Name": "Comox Realty",
+            "Address": {
+              "AddressText": "203, 5718 1A Street SW|CALGARY, Alberta T2H0E8",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "456-3688",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "273-9792",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/62642/comox-realty-203-5718-1a-street-sw-calgary-alberta-t2h0e8",
+            "PhotoLastupdate": "2025-09-25 12:15:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "836-5197",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "273-9792",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "https://www.greatcalgarylistings.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/greatcalgarylistings/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.calgarypropertyfinder.com/",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://twitter.com/SKorostensky",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://www.instagram.com/sergeykorostensky/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "577421763"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636953797800000000/lowres/1271374.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "Sergey",
+          "LastName": "Korostensky",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1987050/sergey-korostensky-203-5718-1a-street-sw-calgary-alberta-t2h0e8",
+          "AgentPhotoLastUpdated": "2019-06-06 01:03:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636953797800000000/highres/1271374.jpg",
+          "RankMyAgentKey": "37674",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$789,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "1315 Lake Michigan Crescent SE|Calgary, Alberta T2J3E9",
+          "Longitude": "-114.029886849",
+          "Latitude": "50.942263482",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639071832933630000/reb9/highres/6/A2280386_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639071832933630000/reb9/medres/6/A2280386_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639071832933630000/reb9/lowres/6/A2280386_1.jpg",
+            "LastUpdated": "2026-02-20 11:21:33 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Concrete"
+          },
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Oversize"
+          },
+          {
+            "Name": "Attached Garage",
+            "Spaces": "1"
+          }
+        ],
+        "ParkingSpaceTotal": "5",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Concrete, Detached Garage (2), Oversize, Attached Garage (1)",
+        "PriceUnformattedValue": "789900",
+        "ShortValue": "790K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "538 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "6.87 m",
+        "LandscapeFeatures": "Garden Area, Landscaped, Lawn"
+      },
+      "AlternateURL": {
+        "DetailsLink": "https://www.greatcalgarylistings.com/1315-Lake-Michigan-Crescent-SE",
+        "VideoLink": "https://youriguide.com/94peo_1315_lake_michigan_crescent_se_calgary_ab/"
+      },
+      "PostalCode": "T2J3E9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29290926/1315-lake-michigan-crescent-se-calgary-bonavista-downs",
+      "StatusId": "1",
+      "PriceChangeDateUTC": "2026-02-20 4:31:13 PM",
+      "PhotoChangeDateUTC": "2026-02-20 4:21:36 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29290926/1315-lake-michigan-crescent-se-calgary-bonavista-downs",
+      "RelativeURLFr": "/immobilier/29290926/1315-lake-michigan-crescent-se-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "1",
+          "MediaCategoryURL": "https://www.greatcalgarylistings.com/1315-Lake-Michigan-Crescent-SE",
+          "Description": "AlternateFeatureSheetWebsite",
+          "Order": 7
+        },
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/94peo_1315_lake_michigan_crescent_se_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/94peo_1315_lake_michigan_crescent_se_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/94peo_1315_lake_michigan_crescent_se_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639050573203600000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29254752",
+      "MlsNumber": "A2279231",
+      "PublicRemarks": "Are you looking for a Bungalow over 1600 square feet, just like NEW in the Mature neighbourhood like Lake Bonavista?  Look no further!!! This BRAND NEW Renovated home offers you a complete Makeover home with brand new everything inside.This home boasts BRAND NEW Kitchen, Bathrooms, Engineered Hardwood floor, and a freshly poured concrete pad. Offering a total of 3 + 3 bedrooms, 4 full baths, this home showcases an open floor plan layout, quartz countertop finishes throughout, and a fully finished basement with a separate exterior entry. Featuring a second kitchen and a spacious living/dining area—ideal for large family living.The main level showcases engineered hardwood flooring throughout, adding elegance and warmth to the space. A stylish wood-accented feature wall greets you upon entry enhancing the modern aesthetic. The bright and inviting Living Room features an electric fireplace and an east-facing exposure, maximizing natural light throughout the day. Large window offers an open unobstructed view. The modern gourmet Kitchen is equipped with stainless steel appliances, a built-in oven, floor-to-ceiling soft-closing cabinetry, a large kitchen island with a breakfast bar and a pantry. A well-sized Dining Room includes a built-in shelf, adding both function and character to the space.The Primary Bedroom features an accented wall and a walk-in closet with closet organizers.  The luxurious 6-piece ensuite bath includes a double vanity, a standing shower and a jetted tub. Two additional Bedrooms, a full Bathroom, and a main floor Laundry completes this level.The fully finished basement accessible through a separate exterior entry, boasts luxury vinyl plank flooring and a spacious Living/Dining Combo. The Basement Kitchen provides convenience for additional living arrangements, also featuring floor-to-ceiling soft-closing cabinetry for ample storage.The Basement has one Bedroom includes a 4-piece ensuite bath and a walk-in closet. Two additional good-sized  Bedrooms, a Full Bathroom, and a second Laundry set complete this level.Outside, enjoy the insulated oversized double detached garage, a large deck, and a fully fenced landscaped backyard. Situated on a slight pie-shaped lot, this property boasts a generously sized backyard, spanning 68 feet at the back—offering exceptional outdoor space.  This home has Lake access and all its exclusive amenities. This home is just a short drive to Bow River, Costco, Fish Creek Provincial Park, golf courses, Southcentre Mall, and the Farmers' Market. Enjoy the comfort of central air conditioning, making every season more enjoyable. This exceptional home offers both comfort and luxury finish —don’t miss out! (31533983)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "3 + 3",
+        "SizeInterior": "1631 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "Ammenities": "Other",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1631 sqft",
+            "AreaUnformatted": "1631 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1446130,
+          "Name": "Jessica Chan",
+          "Organization": {
+            "OrganizationID": 293381,
+            "Name": "Jessica Chan Real Estate & Management Inc.",
+            "Address": {
+              "AddressText": "#103, 2003 14 St NW|Calgary, Alberta T2M3N4",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "241-9800",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              }
+            ],
+            "Emails": [
+              {
+                "ContactId": "503222874"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "HasEmail": true,
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/293381/jessica-chan-real-estate-management-inc-103-2003-14-st-nw-calgary-alberta-t2m3n4",
+            "PhotoLastupdate": "2022-10-07 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "241-9800",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.jcre.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://jessicachanhomesellingteam/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://twitter.com/JessicaChanYYC",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "http://@jessicachanteamyyc/",
+              "WebsiteTypeId": "5"
+            },
+            {
+              "Website": "http://jessicachansellingteam/",
+              "WebsiteTypeId": "7"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576515607"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS636235687800000000/lowres/1013710.jpg",
+          "Position": "Broker of Record",
+          "PermitFreetextEmail": true,
+          "FirstName": "Jessica",
+          "LastName": "Chan",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1446130/jessica-chan-103-2003-14-st-nw-calgary-alberta-t2m3n4",
+          "AgentPhotoLastUpdated": "2017-02-24 21:33:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS636235687800000000/highres/1013710.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,150,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "1040 Lake Ontario Drive SE|Calgary, Alberta T2J3K2",
+          "Longitude": "-114.034794725",
+          "Latitude": "50.932653003",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639040762376330000/reb9/highres/1/A2279231_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639040762376330000/reb9/medres/1/A2279231_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639040762376330000/reb9/lowres/1/A2279231_1.jpg",
+            "LastUpdated": "2026-01-15 12:17:17 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Oversize"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Golf Course, Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2), Oversize",
+        "PriceUnformattedValue": "1150000",
+        "ShortValue": "1.15M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "646 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "14.63 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youtu.be/UESD2ELDrs8"
+      },
+      "PostalCode": "T2J3K2",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29254752/1040-lake-ontario-drive-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "PhotoChangeDateUTC": "2026-01-15 5:17:17 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29254752/1040-lake-ontario-drive-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29254752/1040-lake-ontario-drive-se-calgary",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youtu.be/UESD2ELDrs8",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "Youtube"
+        }
+      ],
+      "InsertedDateUTC": "639040942376270000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29248624",
+      "MlsNumber": "A2279086",
+      "PublicRemarks": "Nestled among mature evergreens on an exceptionally private lot, this rare Shawnee estate offers a lifestyle opportunity that is nearly impossible to replicate in Calgary today. Set back from the road with a long private driveway, the property feels like a secluded retreat while remaining minutes from amenities, schools, golf, and major access routes. The existing home offers over 3300 sq ft of developed living space, generous principal rooms, a functional layout, and solid construction — providing an ideal canvas for a full-scale renovation or luxury modernization. The expansive footprint allows for dramatic design transformation while preserving the privacy and character of the setting.For buyers seeking space, trees, and long-term value, this property delivers:• A rare oversized lot with mature landscaping• Exceptional privacy and quiet surroundings• Estate-style driveway and presence• Strong structural base for renovation• Opportunity to create a custom luxury residence without starting from scratch Whether you envision a contemporary architectural statement, a timeless transitional redesign, or a refined family estate, this property provides the scale and setting to execute your vision. Opportunities like this — combining privacy, land, and location — rarely come to market. (31527710)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "2 + 1",
+        "SizeInterior": "3060 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "3060 sqft",
+            "AreaUnformatted": "3060 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2170266,
+          "Name": "Sima Khademi",
+          "Organization": {
+            "OrganizationID": 54462,
+            "Name": "CIR Realty",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638960649600000000/lowres/1005093.jpg",
+            "Address": {
+              "AddressText": "#100, 707 - 10 AVENUE S.W.|CALGARY, Alberta T2R0B3",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "294-1500",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "266-0941",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54462/cir-realty-100-707-10-avenue-sw-calgary-alberta-t2r0b3",
+            "PhotoLastupdate": "2025-10-14 6:56:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "400-0275",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "266-0941",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://albertainvestments.ca/",
+              "WebsiteTypeId": "1"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576528481"
+            }
+          ],
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Sima",
+          "LastName": "Khademi",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2170266/sima-khademi-100-707-10-avenue-sw-calgary-alberta-t2r0b3",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,598,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "1008 Shawnee Drive SW|Calgary, Alberta T2Y2T9",
+          "Longitude": "-114.089864927",
+          "Latitude": "50.928991841",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639076459060070000/reb9/highres/6/A2279086_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639076459060070000/reb9/medres/6/A2279086_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639076459060070000/reb9/lowres/6/A2279086_1.jpg",
+            "LastUpdated": "2026-02-25 7:51:46 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "6",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2)",
+        "PriceUnformattedValue": "1598000",
+        "ShortValue": "1.6M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "4330 m2|1 - 1.99 acres"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://unbranded.youriguide.com/1008_shawnee_dr_sw_calgary_ab/"
+      },
+      "PostalCode": "T2Y2T9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29248624/1008-shawnee-drive-sw-calgary-shawnee-slopes",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-01-30 9:55:39 PM",
+      "PriceChangeDateUTC": "2026-02-26 1:01:20 AM",
+      "PhotoChangeDateUTC": "2026-02-26 12:51:48 AM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29248624/1008-shawnee-drive-sw-calgary-shawnee-slopes",
+      "RelativeURLFr": "/immobilier/29248624/1008-shawnee-drive-sw-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/1008_shawnee_dr_sw_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/1008_shawnee_dr_sw_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://unbranded.youriguide.com/1008_shawnee_dr_sw_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639039599444100000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29242908",
+      "MlsNumber": "A2278602",
+      "PublicRemarks": "Welcome to Lake Bonavista living, where mature trees, established charm, and year-round lake access come together in this beautifully refreshed two-storey home. Located in the highly desirable estates area of Bonavista, this 4-bedroom, 4-bath home is tucked away on a quiet street surrounded by friendly neighbours and one of Calgary’s most sought-after lake communities.From the moment you step inside, soaring vaulted ceilings and abundant natural light create an open, welcoming feel. The entire main and upper levels have been thoughtfully updated with luxury vinyl flooring, fresh white paint, and stylish new lighting, giving the home a bright, modern feel throughout.The kitchen has been fully renovated and is designed for both everyday living and entertaining, featuring quartz countertops, new cabinetry and hardware, a built-in pantry with pull-out drawers, and updated appliances, sink, and faucet. A sunny breakfast nook overlooks the backyard, while the adjacent formal dining room provides the perfect setting for holidays, celebrations, and family gatherings.The main floor offers exceptional functionality with two distinct living areas — a formal front living room and a cozy sunken family room anchored by a wood-burning fireplace — along with a main-floor bedroom ideal for guests or a home office, and an updated half bath.Upstairs, you’ll find three generously sized bedrooms, including two with walk-in closets and built-in organizers. The upper level is complete with an updated three-piece ensuite and a refreshed five-piece main bathroom.The newly carpeted lower level expands your living space even further with a large recreation room, wet bar, hobby room, three-piece bathroom, and ample storage.Outside, the home continues to impress. The exterior and garage door have been professionally repainted, most windows have been upgraded to fiberglass with Hunter Douglas blinds, and LeafFilter gutter protection adds peace of mind. The fenced, level backyard is l ow-maintenance and spacious — perfect for summer BBQs, kids, pets, and offers valuable RV parking, a highly desirable feature in this community.Additional highlights include a double attached garage, a statement designer front door, and a brand-new washer and dryer conveniently located on the main floor.With a large lot, unbeatable location close to schools, playgrounds, playing fields, and exclusive lake amenities, this is a home and community people rarely leave. Spend winters skating on the lake, summers entertaining outdoors, and enjoy the lifestyle that makes Lake Bonavista so special.  Don't miss out, and book a showing with your favourite realtor today!! (31521510)",
+      "Building": {
+        "BathroomTotal": "4",
+        "Bedrooms": "4",
+        "SizeInterior": "2036.36 sqft",
+        "StoriesTotal": "2",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "2036 sqft",
+            "AreaUnformatted": "2036 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 2147184,
+          "Name": "Christy Longacre",
+          "Organization": {
+            "OrganizationID": 54514,
+            "Name": "RE/MAX Landan Real Estate",
+            "Address": {
+              "AddressText": "#102, 279 MIDPARK WAY S.E.|CALGARY, Alberta T2X1M2",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "256-3888",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "256-3144",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54514/remax-landan-real-estate-102-279-midpark-way-se-calgary-alberta-t2x1m2",
+            "PhotoLastupdate": "2024-01-05 2:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "860-6770",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "256-3144",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.christylongacre.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://instagram.com/christylongacrehomes",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576524581"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637774423200000000/lowres/1398275.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Christy",
+          "LastName": "Longacre",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2147184/christy-longacre-102-279-midpark-way-se-calgary-alberta-t2x1m2",
+          "AgentPhotoLastUpdated": "2022-01-10 20:12:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637774423200000000/highres/1398275.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$1,249,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "432 129 Avenue SE|Calgary, Alberta T2J4A9",
+          "Longitude": "-114.061798712",
+          "Latitude": "50.937022719",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639081379591100000/reb9/highres/2/A2278602_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639081379591100000/reb9/medres/2/A2278602_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639081379591100000/reb9/lowres/2/A2278602_1.jpg",
+            "LastUpdated": "2026-03-03 12:32:39 PM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Attached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Garage"
+          },
+          {
+            "Name": "Heated Garage"
+          },
+          {
+            "Name": "Other"
+          }
+        ],
+        "ParkingSpaceTotal": "4",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Recreation Nearby, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Attached Garage (2), Garage, Heated Garage, Other",
+        "PriceUnformattedValue": "1249000",
+        "ShortValue": "1.25M",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "684 m2|7,251 - 10,889 sqft",
+        "SizeFrontage": "20.42 m",
+        "LandscapeFeatures": "Landscaped, Lawn, Underground sprinkler"
+      },
+      "PostalCode": "T2J4A9",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29242908/432-129-avenue-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-13 7:05:09 PM",
+      "PriceChangeDateUTC": "2026-03-03 5:51:48 PM",
+      "HasPriceUpdate": true,
+      "PhotoChangeDateUTC": "2026-03-03 5:32:41 PM",
+      "HasNewImageUpdate": true,
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29242908/432-129-avenue-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29242908/432-129-avenue-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [],
+      "InsertedDateUTC": "639038548002730000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "29194594",
+      "MlsNumber": "A2275276",
+      "PublicRemarks": "Currently subject to a 48 hour time clause. Please contact for details. Back on the market and ready for its next chapter, this is a rare opportunity to own a fully rebuilt home in sought-after Lake Bonavista, offered at an attractive price for a move-in ready, renovated property. There are COMPELLING reasons to consider this Lake Bonavista home as your next move: [1] THE RENOVATIONS & CONDITION: This is not a typical 1970s Bonavista home - it was completely rebuilt from the foundation up in 2003, including new plumbing, electrical, furnace, siding, windows, interior walls, & finishes. That means you get the charm of an established community without many of the costly surprises that come with a typical, older home. More recently, the home has continued to be thoughtfully upgraded: Custom kitchen renovation (2024) with quartz counters & a large island with breakfast bar, upstairs bathroom renovation (2023), 50-gal. hot water tank (2022), new roof shingles, vents & flashing (2021) & vinyl plank flooring that runs throughout the bright main level, creating a clean, modern look that ties the space together. [2] THE FLOOR PLAN & LIVING SPACE:  This bi-level layout delivers remarkable functionality for families. The main floor offers 3 generous bedrooms, including a primary with 2-piece ensuite, plus an updated full family bath, a layout that keeps everyone on the same level. The fully developed basement dramatically expands your living space, featuring: A bright family room with electric fireplace, 2 additional bedrooms, a full bathroom, & finished laundry room. This makes the home ideal for growing families, guests, or multi-generational living. A rare find in this price category. [3] THE KITCHEN, MUDROOM & EVERYDAY FUNCTION:  The heart of the home is the beautifully upgraded kitchen, designed for both daily living & entertaining. The oversized custom island, quartz counters, & open flow to the dining & living room (with wood-burning fireplace) create a space that feels  welcoming, bright, & practical. A rear mudroom adds convenience, leading directly to the deck, backyard, & oversized double garage, perfect for Calgary winters, kids, pets, & busy lifestyles. [4] THE LOT, BACKYARD & WEST EXPOSURE:  The west-facing backyard gives you sun filled evenings, ideal for relaxing, entertaining, & family time. The deck extends your living space outdoors, while the oversized double garage adds storage & parking flexibility that buyers in Bonavista highly value. [5] THE LOCATION & COMMUNITY:  Lake Bonavista remains one of Calgary’s most coveted neighbourhoods, & for good reason. Residents enjoy year round lake access for swimming, fishing, skating, & community events, plus a vibrant recreation centre with gym, hockey, social rooms, & programming for all ages. You’re also walking distance to Fish Creek Provincial Park, schools, playgrounds, everyday shopping & services. (31469870)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "3 + 2",
+        "SizeInterior": "1294 sqft",
+        "StoriesTotal": "",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1294 sqft",
+            "AreaUnformatted": "1294 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "1"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1845103,
+          "Name": "Jamie Newton",
+          "Organization": {
+            "OrganizationID": 54575,
+            "Name": "RE/MAX First",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400584400000000/lowres/1005258.jpg",
+            "Address": {
+              "AddressText": "115, 8820 BLACKFOOT TRAIL S.E.|CALGARY, Alberta T2J3J1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "278-2900",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "255-8606",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54575/remax-first-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "837-9300",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "255-8606",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.jamienewton.ca/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "https://www.facebook.com/jamienewtonassociates/",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "https://www.linkedin.com/in/jamie-newton-3992458",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "https://www.instagram.com/jamienewton.ca/",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576496647"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637650729000000000/lowres/1198259.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Jamie",
+          "LastName": "Newton",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1845103/jamie-newton-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+          "AgentPhotoLastUpdated": "2021-08-20 16:15:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637650729000000000/highres/1198259.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        },
+        {
+          "IndividualID": 2108446,
+          "Name": "Kirsten Kemprud",
+          "Organization": {
+            "OrganizationID": 54575,
+            "Name": "RE/MAX First",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400584400000000/lowres/1005258.jpg",
+            "Address": {
+              "AddressText": "115, 8820 BLACKFOOT TRAIL S.E.|CALGARY, Alberta T2J3J1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "278-2900",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "255-8606",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54575/remax-first-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "589-2421",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "255-8606",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576717585"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS637850258400000000/lowres/1377330.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Kirsten",
+          "LastName": "Kemprud",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/2108446/kirsten-kemprud-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+          "AgentPhotoLastUpdated": "2022-04-08 14:44:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS637850258400000000/highres/1377330.jpg",
+          "RankMyAgentKey": "",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$849,900",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "13127 Lake Crimson Drive SE|Calgary, Alberta T2J3K3",
+          "Longitude": "-114.039347123",
+          "Latitude": "50.932250423",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639071802475130000/reb9/highres/6/A2275276_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639071802475130000/reb9/medres/6/A2275276_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639071802475130000/reb9/lowres/6/A2275276_1.jpg",
+            "LastUpdated": "2026-02-20 10:30:47 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          }
+        ],
+        "ParkingSpaceTotal": "2",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Park, Playground, Schools, Shopping, Water Nearby",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2)",
+        "PriceUnformattedValue": "849900",
+        "ShortValue": "850K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "473 m2|4,051 - 7,250 sqft",
+        "SizeFrontage": "14.93 m",
+        "LandscapeFeatures": "Landscaped"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/13127_lake_crimson_dr_se_calgary_ab/"
+      },
+      "PostalCode": "T2J3K3",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/29194594/13127-lake-crimson-drive-se-calgary-lake-bonavista",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2026-02-20 1:21:10 PM",
+      "PriceChangeDateUTC": "2026-01-12 9:34:11 PM",
+      "PhotoChangeDateUTC": "2026-02-20 3:30:50 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/29194594/13127-lake-crimson-drive-se-calgary-lake-bonavista",
+      "RelativeURLFr": "/immobilier/29194594/13127-lake-crimson-drive-se-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/13127_lake_crimson_dr_se_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 2,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/13127_lake_crimson_dr_se_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/13127_lake_crimson_dr_se_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "639016829145170000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    },
+    {
+      "Id": "28798184",
+      "MlsNumber": "A2251732",
+      "PublicRemarks": "Remarkably designed inside & out ~ This fully finished Canyon Meadows home offers a modern open-concept layout, situated on a huge 8,525 sq ft lot with an unbeatable backyard, and OVERSIZED, HEATED GARAGE w/ Attached WORKSHOP and RV parking. Great curb appeal welcomes you with mature trees, garden beds beneath the front windows, a paved stairway, and a long side driveway. Inside you instantly appreciate how bright & open this home is, with an organized front closet and rich vinyl plank flooring that flows throughout. The modern Living Room is anchored by a marble-tiled fireplace surrounded by stunning built-ins with lighting, and big bay windows that let the sunshine flood the main floor. The luxurious kitchen hosts crisp white cabinetry, stone counters, SS appliances, a full tiled backsplash, eat-up island, perfectly-placed window to enjoy backyard views while doing dishes, upgraded lighting, AND an organized Pantry. The Primary Bedroom offers a Walk-In Closet with wood shelving  that flows through to an amazing 5-piece Ensuite. Equipped with elegant dual vanities, a stand-alone soaker tub, and fully tiled O/S walk-in shower! Completing the main-level is a 2nd Bedroom, 4-pc Bathroom with more gorgeous tile, and a Linen Closet for added organization. Downstairs you’ll find a massive Rec Room with a focal point electric fireplace, custom wet Bar with a sink and great storage, TWO more large bedrooms with closets, a versatile Home Office or Gym, a 3-piece bath with a corner walk-in shower, designated Laundry Room with a window, and plenty of storage! Outside, enjoy your own little oasis - featuring a stamped concrete Patio off the back door, mature landscaping that includes huge picturesque trees, solid wood fencing for added privacy, and extensive parking for your friends, family, RV AND toys! All this is tucked in a walkable location close to excellent schools, bus stops and transit, and all the everyday amenities you need. This home checks all the boxes for style,  function, and location - are you ready to come fall in love with your new HOME? (31049916)",
+      "Building": {
+        "BathroomTotal": "3",
+        "Bedrooms": "2 + 2",
+        "SizeInterior": "1023.66 sqft",
+        "StoriesTotal": "1",
+        "Type": "House",
+        "FloorAreaMeasurements": [
+          {
+            "Area": "1024 sqft",
+            "AreaUnformatted": "1024 sqft",
+            "Type": "Square Footage",
+            "Source": "",
+            "MeasureUnitId": "1",
+            "TypeId": "1",
+            "SourceId": "0",
+            "SortBy": "1"
+          }
+        ],
+        "HalfBathTotal": "0"
+      },
+      "Individual": [
+        {
+          "IndividualID": 1835570,
+          "Name": "Shilo Storey",
+          "Organization": {
+            "OrganizationID": 54575,
+            "Name": "RE/MAX First",
+            "Logo": "https://cdn.realtor.ca/organization/en-CA/TS638400584400000000/lowres/1005258.jpg",
+            "Address": {
+              "AddressText": "115, 8820 BLACKFOOT TRAIL S.E.|CALGARY, Alberta T2J3J1",
+              "PermitShowAddress": true
+            },
+            "Phones": [
+              {
+                "PhoneType": "Telephone",
+                "PhoneNumber": "278-2900",
+                "AreaCode": "403",
+                "PhoneTypeId": "1"
+              },
+              {
+                "PhoneType": "Fax",
+                "PhoneNumber": "255-8606",
+                "AreaCode": "403",
+                "PhoneTypeId": "4"
+              }
+            ],
+            "OrganizationType": "Firm",
+            "PermitFreetextEmail": true,
+            "PermitShowListingLink": true,
+            "RelativeDetailsURL": "/office/firm/54575/remax-first-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+            "PhotoLastupdate": "2024-01-05 1:34:00 PM"
+          },
+          "Phones": [
+            {
+              "PhoneType": "Telephone",
+              "PhoneNumber": "771-9002",
+              "AreaCode": "403",
+              "PhoneTypeId": "1"
+            },
+            {
+              "PhoneType": "Fax",
+              "PhoneNumber": "255-8606",
+              "AreaCode": "403",
+              "PhoneTypeId": "4"
+            }
+          ],
+          "Websites": [
+            {
+              "Website": "http://www.shilostorey.com/",
+              "WebsiteTypeId": "1"
+            },
+            {
+              "Website": "http://www.facebook.com/remaxshilo",
+              "WebsiteTypeId": "2"
+            },
+            {
+              "Website": "http://www.linkedin.com/in/shilostorey",
+              "WebsiteTypeId": "3"
+            },
+            {
+              "Website": "http://www.twitter.com/remaxshilo",
+              "WebsiteTypeId": "4"
+            },
+            {
+              "Website": "https://www.instagram.com/remaxshilo",
+              "WebsiteTypeId": "5"
+            }
+          ],
+          "Emails": [
+            {
+              "ContactId": "576496818"
+            }
+          ],
+          "Photo": "https://cdn.realtor.ca/individual/TS638179417200000000/lowres/1196916.jpg",
+          "Position": "Associate",
+          "PermitFreetextEmail": true,
+          "FirstName": "Shilo",
+          "LastName": "Storey",
+          "CorporationDisplayTypeId": "0",
+          "PermitShowListingLink": true,
+          "RelativeDetailsURL": "/agent/1835570/shilo-storey-115-8820-blackfoot-trail-se-calgary-alberta-t2j3j1",
+          "AgentPhotoLastUpdated": "2023-04-24 14:02:00",
+          "PhotoHighRes": "https://cdn.realtor.ca/individual/TS638179417200000000/highres/1196916.jpg",
+          "RankMyAgentKey": "42607",
+          "RealSatisfiedKey": "",
+          "TestimonialTreeKey": ""
+        }
+      ],
+      "Property": {
+        "Price": "$729,000",
+        "Type": "Single Family",
+        "Address": {
+          "AddressText": "392 Cantrell Drive SW|Calgary, Alberta T2W2E4",
+          "Longitude": "-114.070397564",
+          "Latitude": "50.935215071",
+          "PermitShowAddress": true
+        },
+        "Photo": [
+          {
+            "SequenceId": "1",
+            "HighResPath": "https://cdn.realtor.ca/listings/TS639069150703070000/reb9/highres/2/A2251732_1.jpg",
+            "MedResPath": "https://cdn.realtor.ca/listings/TS639069150703070000/reb9/medres/2/A2251732_1.jpg",
+            "LowResPath": "https://cdn.realtor.ca/listings/TS639069150703070000/reb9/lowres/2/A2251732_1.jpg",
+            "LastUpdated": "2026-02-17 8:51:10 AM",
+            "TypeId": "0"
+          }
+        ],
+        "Parking": [
+          {
+            "Name": "Detached Garage",
+            "Spaces": "2"
+          },
+          {
+            "Name": "Garage"
+          },
+          {
+            "Name": "Heated Garage"
+          },
+          {
+            "Name": "Oversize"
+          },
+          {
+            "Name": "Parking Pad"
+          },
+          {
+            "Name": "RV"
+          }
+        ],
+        "ParkingSpaceTotal": "6",
+        "TypeId": "300",
+        "OwnershipType": "Freehold",
+        "AmmenitiesNearBy": "Schools, Shopping",
+        "OwnershipTypeGroupIds": [
+          1
+        ],
+        "ParkingType": "Detached Garage (2), Garage, Heated Garage, Oversize, Parking Pad, RV",
+        "PriceUnformattedValue": "729000",
+        "ShortValue": "729K",
+        "PriceChangeTimeOnRealtor": "",
+        "PriceChangeTagDateUTC": "12:00:00 AM"
+      },
+      "Business": {},
+      "Land": {
+        "SizeTotal": "792 m2|7,251 - 10,889 sqft",
+        "SizeFrontage": "16.76 m",
+        "LandscapeFeatures": "Landscaped, Lawn"
+      },
+      "AlternateURL": {
+        "VideoLink": "https://youriguide.com/vjskq_392_cantrell_dr_sw_calgary_ab/"
+      },
+      "PostalCode": "T2W2E4",
+      "HistoricalDataIsCleared": false,
+      "ProvinceName": "Alberta",
+      "RelativeDetailsURL": "/real-estate/28798184/392-cantrell-drive-sw-calgary-canyon-meadows",
+      "StatusId": "1",
+      "OpenHouseInsertDateUTC": "2025-09-03 8:53:39 PM",
+      "PriceChangeDateUTC": "2025-10-15 2:44:48 PM",
+      "PhotoChangeDateUTC": "2026-02-17 1:51:13 PM",
+      "Distance": "",
+      "RelativeURLEn": "/real-estate/28798184/392-cantrell-drive-sw-calgary-canyon-meadows",
+      "RelativeURLFr": "/immobilier/28798184/392-cantrell-drive-sw-calgary",
+      "ListingTimeZone": "Mountain Standard Time",
+      "ListingBoundary": "America/Edmonton",
+      "ListingGMT": "-07:00:00",
+      "Media": [
+        {
+          "MediaCategoryId": "2",
+          "MediaCategoryURL": "https://youriguide.com/vjskq_392_cantrell_dr_sw_calgary_ab/",
+          "Description": "VideoTourWebsite",
+          "Order": 1,
+          "VideoType": "iGuide"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/vjskq_392_cantrell_dr_sw_calgary_ab//doc/floorplan_metric_en_u.pdf",
+          "Description": "FloorPlan"
+        },
+        {
+          "MediaCategoryId": "8",
+          "MediaCategoryURL": "https://youriguide.com/vjskq_392_cantrell_dr_sw_calgary_ab//doc/floorplan_imperial_en_u.pdf",
+          "Description": "FloorPlan"
+        }
+      ],
+      "InsertedDateUTC": "638924236768730000",
+      "TimeOnRealtor": "",
+      "Tags": [],
+      "UploadedBy": 9
+    }
+  ],
+  "assessments": 3648,
+  "timestamp": "2026-03-04T03-30-32"
 }
