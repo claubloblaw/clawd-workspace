@@ -76,6 +76,8 @@ heartbeat-state.json
 # Temp
 *.tmp
 *.bak
+tmp/
+tmp_reddit_posts.json
 
 # Client/lead data
 meera-patel-clients-nameservers.csv
