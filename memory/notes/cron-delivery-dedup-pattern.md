@@ -17,4 +17,4 @@ Prevents duplicate notifications and keeps cron automation clean.
 A completion summary may include explicit guidance like: reply only `NO_REPLY` if exact output was already sent.
 
 ## Source
-- `memory/daily/2026-02-24-heartbeat-cron.md`
+- `memory/daily/archive/2026-02-24-heartbeat-cron.md`

@@ -19,4 +19,4 @@ OpenClaw is free/open-source framework; spend comes from model provider access.
 Useful for onboarding people who want to test OpenClaw cheaply before committing to paid API usage.
 
 ## Source
-- `memory/daily/2026-02-24-openclaw-free.md`
+- `memory/daily/archive/2026-02-24-openclaw-free.md`
