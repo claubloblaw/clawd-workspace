@@ -40,6 +40,7 @@ memory/maintenance-log.md
 # Memory knowledge graph — personal/financial/client content
 memory/notes/marcel-*.md
 memory/notes/*marcelgruber*.md
+memory/notes/personal-site-marcelgruber-ca.md
 memory/notes/investment-*.md
 memory/notes/dalio-big-cycle-stage5-to-6.md
 memory/notes/luxica-*.md
@@ -79,6 +80,7 @@ heartbeat-state.json
 *.bak
 tmp/
 tmp_reddit_posts.json
+tmp_reddit_candidates.json
 
 # Client/lead data
 meera-patel-clients-nameservers.csv
@@ -105,6 +107,15 @@ node_modules/
 # X digest project (contains auth/token references)
 projects/x-digest/
 
+# Scraped listing exports can include contact identifiers
+projects/calgary-re-scraper/data/raw-*.json
+projects/calgary-re-scraper/data/latest.json
+projects/calgary-re-scraper/lake-bonavista/data/latest.json
+projects/calgary-re-scraper/data/summary-*.md
+projects/calgary-re-scraper/lake-bonavista/data/report-*.md
+projects/calgary-re-scraper/data/latest-summary.md
+projects/calgary-re-scraper/lake-bonavista/data/latest-report.md
+
 # Separate git repos (have their own remotes)
 projects/luxc/
 projects/valeriya/
@@ -122,6 +133,7 @@ memory/notes/car-shopping-preferences.md
 # Personal documents
 deposit-agreement.*
 deposit.png
+2026_February_27_redacted.pdf
 gen-deposit-docx.py
 projects/sitecore-complaints/
 .openclaw/
