@@ -81,6 +81,8 @@ heartbeat-state.json
 tmp/
 tmp_reddit_posts.json
 tmp_reddit_candidates.json
+tmp_reddit_scan.json
+tmp_selected_threads.json
 
 # Client/lead data
 meera-patel-clients-nameservers.csv
