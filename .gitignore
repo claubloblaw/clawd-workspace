@@ -85,6 +85,7 @@ tmp_reddit_candidates.txt
 tmp_reddit_scan.json
 tmp_selected_threads.json
 tmp_reddit_chunk_*.txt
+reddit_chunk_*.txt
 
 # Client/lead data
 meera-patel-clients-nameservers.csv

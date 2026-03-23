@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "accepted-sitecore-slack-env-local-auth-material",
+      "match": {
+        "file": "projects/sitecore-slack-scraper/.env",
+        "issue_contains": "Slack auth"
+      },
+      "action": "suppress",
+      "reason": "Intentional local-only workspace secret for personal Slack scraper; not a production application exposure."
+    },
+    {
+      "id": "accepted-sitecore-blog-nextjs-stale",
+      "match": {
+        "file": "projects/sitecore-blog/package.json",
+        "issue_contains": "Next.js pinned to an obsolete"
+      },
+      "action": "suppress",
+      "reason": "Known stale dependency in a low-priority project; accepted for now until deliberate upgrade work is scheduled."
+    },
+    {
+      "id": "accepted-godaddy-leads-contact-enrich-no-tls-verify",
+      "match": {
+        "file": "projects/godaddy-leads/contact-enrich.py",
+        "issue_contains": "TLS certificate verification"
+      },
+      "action": "suppress",
+      "reason": "Intentional scraping tolerance for broken small-business sites; not handling credentials or trusted upstream data."
+    },
+    {
+      "id": "accepted-godaddy-leads-enrich-leads-no-tls-verify",
+      "match": {
+        "file": "projects/godaddy-leads/scripts/enrich-leads.py",
+        "issue_contains": "disable TLS verification"
+      },
+      "action": "suppress",
+      "reason": "Intentional scraping tolerance for broken target sites; availability matters more than transport authenticity for this lead-gen workflow."
+    },
+    {
+      "id": "accepted-sitecore-slack-archive-local-retention",
+      "match": {
+        "file": "projects/sitecore-slack-scraper/db.py",
+        "issue_contains": "Local SQLite archive stores raw Slack content"
+      },
+      "action": "suppress",
+      "reason": "Tool is explicitly a local personal archive; retention/access boundary is a product choice, not a security bug for this use case."
+    }
+  ]
+}

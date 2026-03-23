@@ -7,6 +7,7 @@ OUTPUT_DIR="$SCRIPT_DIR/reports/$(date +%Y-%m-%d_%H%M%S)"
 TARGET="${1:?Usage: audit.sh /path/to/codebase [--dry-run]}"
 DRY_RUN=false
 [[ "${2:-}" == "--dry-run" ]] && DRY_RUN=true
+ACCEPTED_RISKS_FILE="$SCRIPT_DIR/accepted-risks.json"
 
 mkdir -p "$OUTPUT_DIR"
 
@@ -153,6 +154,66 @@ $(cat "$OUTPUT_DIR/realism.md")
   > "$OUTPUT_DIR/findings.json" 2>"$OUTPUT_DIR/summarizer.stderr.log"
 
 echo "  ✅ Final report generated"
+echo ""
+echo "  ⏳ Applying accepted-risk suppressions..."
+python3 - <<PY
+import json
+from pathlib import Path
+
+findings_path = Path("$OUTPUT_DIR/findings.json")
+accepted_path = Path("$ACCEPTED_RISKS_FILE")
+
+with findings_path.open() as f:
+    data = json.load(f)
+
+accepted_rules = []
+if accepted_path.exists():
+    with accepted_path.open() as f:
+        accepted_rules = json.load(f).get("rules", [])
+
+def matches(rule, finding):
+    match = rule.get("match", {})
+    file_match = match.get("file")
+    issue_contains = match.get("issue_contains")
+    finding_file = finding.get("file", "")
+    issue = finding.get("issue", "") or finding.get("description", "") or ""
+    if file_match and finding_file != file_match:
+        return False
+    if issue_contains and issue_contains.lower() not in issue.lower():
+        return False
+    return True
+
+suppressed = []
+remaining = []
+for finding in data.get("findings", []):
+    rule = next((r for r in accepted_rules if matches(r, finding)), None)
+    if rule and rule.get("action") == "suppress":
+        finding = dict(finding)
+        finding["suppressed_by"] = rule.get("id")
+        finding["suppression_reason"] = rule.get("reason")
+        suppressed.append(finding)
+    else:
+        remaining.append(finding)
+
+data["findings"] = remaining
+data["critical_count"] = sum(1 for f in remaining if f.get("severity") == "critical")
+data["high_count"] = sum(1 for f in remaining if f.get("severity") == "high")
+data["medium_count"] = sum(1 for f in remaining if f.get("severity") == "medium")
+data["low_count"] = sum(1 for f in remaining if f.get("severity") == "low")
+
+if suppressed:
+    data["suppressed_findings"] = suppressed
+    data["suppressed_count"] = len(suppressed)
+else:
+    data.pop("suppressed_findings", None)
+    data["suppressed_count"] = 0
+
+with findings_path.open("w") as f:
+    json.dump(data, f, indent=2)
+    f.write("\n")
+PY
+
+echo "  ✅ Suppressions applied"
 
 # ── Phase 4: Format for Telegram ──
 # Generate a human-readable summary
@@ -171,22 +232,27 @@ except (json.JSONDecodeError, FileNotFoundError) as e:
 
 lines = []
 lines.append('🔒 **Security Council Report**')
-lines.append(f'📁 {data.get(\"target\", \"unknown\")}')
-lines.append(f'📅 {data.get(\"audit_date\", \"today\")}')
+lines.append(f'📁 {data.get("target", "unknown")}')
+lines.append(f'📅 {data.get("audit_date", "today")}')
 lines.append('')
-lines.append(data.get('summary', ''))
-lines.append('')
+summary_text = data.get('summary', '')
+if isinstance(summary_text, str) and summary_text:
+    lines.append(summary_text)
+    lines.append('')
 
 c = data.get('critical_count', 0)
 h = data.get('high_count', 0)
 m = data.get('medium_count', 0)
 l = data.get('low_count', 0)
+suppressed_count = data.get('suppressed_count', 0)
 lines.append(f'🔴 Critical: {c} | 🟠 High: {h} | 🟡 Medium: {m} | 🟢 Low: {l}')
+if suppressed_count:
+    lines.append(f'🫥 Suppressed accepted risks: {suppressed_count}')
 lines.append('')
 
 # Top 3 immediate
 top3 = data.get('top_3_immediate', [])
-if top3:
+if top3 and data.get('findings'):
     lines.append('⚡ **Fix NOW:**')
     for i, item in enumerate(top3, 1):
         lines.append(f'{i}. {item}')
@@ -201,10 +267,16 @@ if findings:
         sev = {'critical': '🔴', 'high': '🟠', 'medium': '🟡', 'low': '🟢'}.get(f.get('severity', ''), '⚪')
         real = f.get('realism', '')
         tag = ' 🎭' if real == 'theater' else ''
-        lines.append(f'{sev} **#{f[\"id\"]}** {f[\"title\"]}{tag}')
-        lines.append(f'   {f.get(\"file\", \"?\")} | {f.get(\"description\", \"\")}')
-        lines.append(f'   → {f.get(\"recommendation\", \"\")}')
+        title = f.get('title') or f.get('issue') or 'Untitled finding'
+        desc = f.get('description') or f.get('issue') or ''
+        rec = f.get('recommendation') or f.get('fix') or ''
+        lines.append(f'{sev} **#{f["id"]}** {title}{tag}')
+        lines.append(f'   {f.get("file", "?")} | {desc}')
+        lines.append(f'   → {rec}')
         lines.append('')
+else:
+    lines.append('✅ No active findings after accepted-risk suppressions.')
+    lines.append('')
 
 # Theater
 theater = data.get('security_theater', [])
@@ -213,7 +285,7 @@ if theater:
     for t in theater:
         lines.append(f'- {t}')
 
-print('\n'.join(lines))
+print('\\n'.join(lines))
 " > "$OUTPUT_DIR/telegram.md"
 
 echo ""

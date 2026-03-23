@@ -37,3 +37,4 @@ Codebase → Claude Code CLI (reads actual code)
 1. Requires `claude` CLI (Claude Code) authenticated
 2. Set `TELEGRAM_CHAT_ID` in config or rely on OpenClaw cron for delivery
 3. Schedule via OpenClaw cron at 3:30 AM nightly
+4. Put intentionally accepted findings in `accepted-risks.json` so the report suppresses them after summarization
