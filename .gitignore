@@ -18,6 +18,7 @@ IDENTITY.md
 memory/investment-plan.md
 memory/opportunities.md
 memory/x-digest.md
+memory/x-digest-*.txt
 memory/reddit-digest.md
 memory/inbox/
 memory/*market*.md
@@ -148,3 +149,4 @@ projects/sitecore-complaints/
 .openclaw/
 
 memory/notes/sitecore-blog-project.md
+memory/notes/security-council-accepted-risk-suppressions.md
