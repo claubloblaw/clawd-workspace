@@ -370,7 +370,7 @@ async function main() {
 
   // Step 2: Listings
   console.log('Connecting to Chrome via CDP...');
-  const browser = await chromium.connectOverCDP(CDP_URL);
+  const browser = await chromium.connectOverCDP(CDP_URL, { timeout: 120000 });
   const contexts = browser.contexts();
   const context = contexts[0] || await browser.newContext();
   
