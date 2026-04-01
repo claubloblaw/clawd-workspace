@@ -80,6 +80,8 @@ heartbeat-state.json
 *.tmp
 *.bak
 tmp/
+.trash/
+tmp_digest_part_*.txt
 tmp_reddit_posts.json
 tmp_reddit_candidates.json
 tmp_reddit_candidates.txt
