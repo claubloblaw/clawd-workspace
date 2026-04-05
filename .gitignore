@@ -126,6 +126,7 @@ projects/calgary-re-scraper/lake-bonavista/data/report-*.md
 projects/calgary-re-scraper/data/latest-summary.md
 projects/calgary-re-scraper/lake-bonavista/data/latest-report.md
 projects/calgary-re-scraper/lake-bonavista/data/alerts.json
+projects/calgary-re-scraper/data/sent-history.txt
 projects/calgary-re-scraper/lake-bonavista/data/sent-history.txt
 
 # Separate git repos (have their own remotes)

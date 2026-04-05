@@ -1,7 +1,9 @@
 ---
 type: note
 description: "OpenClaw cron jobs can exist on disk while dashboard appears empty due to control UI session/websocket desync."
-updated: 2026-03-10
+topics: ["[[moc-technical]]"]
+created: 2026-03-02
+updated: 2026-04-04
 ---
 
 # OpenClaw Cron UI Desync (Jobs Present, Dashboard Empty)
